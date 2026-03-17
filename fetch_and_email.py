@@ -112,9 +112,9 @@ def fetch_pubmed(query, category, max_results=3):
 # ──────────────────────────────────────────────
 ALERT_FEEDS = [
     ("https://www.google.com/alerts/feeds/00000000000000000/AI+nursing+education", "nursing"),
-    ("https://www.google.com/alerts/feeds/00000000000000000/AI+university+education+innovation", "university"),
-    ("https://www.google.com/alerts/feeds/00000000000000000/AI+curriculum+higher+education", "fusion"),
-    ("https://www.google.com/alerts/feeds/00000000000000000/WHO+AI+health+education", "policy"),
+    ("https://www.google.com/alerts/feeds/00135932185199891936/17966424033244388137", "university"),
+    ("https://www.google.com/alerts/feeds/00135932185199891936/17966424033244386211", "fusion"),
+    ("https://www.google.com/alerts/feeds/00135932185199891936/17966424033244386448", "policy"),
 ]
 # ※ 위 URL은 예시입니다. 실제 Google Alerts 설정 후 발급받은 RSS URL로 교체하세요.
 #   설정 방법: google.com/alerts → 키워드 입력 → "피드로 표시" 선택 → RSS 링크 복사
