@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Nursing Students' Knowledge, Attitudes, and Skills Related to Perinatal Substance Use.",
+    "source": "Substance use & addiction journal",
+    "date": "2026-Mar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41841222/",
+    "summary": "Substance use in the perinatal period is a critical public health issue in the United States. Nurses play a significant role in promoting positive maternal-infant health outcomes for women who use substances in the perinatal period. However, many nurses have deficient knowledge, skills, and attitude..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Generative AI Podcasts for Learning: Perceptions of Faculty and Graduate Nursing Students.",
+    "source": "The Journal of nursing education",
+    "date": "2026-Mar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41839174/",
+    "summary": "In nursing education, faculty generated and commercially prepared podcasts have been shown to be an effective way to deliver content. Generative artificial intelligence (GAI) technology can be used to create human-like podcast audio recordings using evidence-based resources chosen by faculty...."
+  },
+  {
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "What Are the Opportunities and Challenges of Using AI in Medical Education in Vietnam?",
+    "source": "JMIR medical education",
+    "date": "2025-Dec",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41329943/",
+    "summary": "Artificial intelligence (AI) has the potential to transform medical training through adaptive learning, immersive simulations, automated assessments, and data-driven insights, offering solutions to persistent issues such as high student-to-faculty ratios, overcrowded classrooms, and limited clinical..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-03-17",
+    "url": "",
+    "summary": ""
+  }
+]
