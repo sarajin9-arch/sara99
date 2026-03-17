@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 교육 다이제스트</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=DM+Mono:wght@400;500&family=Noto+Sans+KR:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1814;
+    --ink2: #3d3a34;
+    --ink3: #7a756c;
+    --paper: #f8f5ef;
+    --paper2: #f0ebe0;
+    --paper3: #e8e1d2;
+    --accent: #b85c2a;
+    --accent2: #2a6b8a;
+    --green: #2d6b4a;
+    --rule: #d4cdc0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+
+  /* Masthead */
+  .masthead {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0;
+    border-bottom: 3px solid var(--accent);
+  }
+  .masthead-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 28px 32px 20px;
+  }
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid rgba(255,255,255,0.15);
+    padding-bottom: 14px;
+    margin-bottom: 14px;
+  }
+  .paper-name {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+  .paper-name span { color: var(--accent); }
+  .paper-meta {
+    text-align: right;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.5);
+    line-height: 1.8;
+  }
+  .tagline {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 300;
+    color: rgba(255,255,255,0.55);
+    letter-spacing: 0.06em;
+  }
+
+  /* Filter bar */
+  .filterbar {
+    background: var(--paper2);
+    border-bottom: 1px solid var(--rule);
+    padding: 12px 32px;
+  }
+  .filterbar-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .filter-label {
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--ink3);
+    margin-right: 4px;
+    letter-spacing: 0.04em;
+  }
+  .chip {
+    padding: 5px 14px;
+    border-radius: 2px;
+    border: 1px solid var(--rule);
+    background: var(--paper);
+    font-size: 0.75rem;
+    font-family: 'Noto Sans KR', sans-serif;
+    cursor: pointer;
+    color: var(--ink2);
+    transition: all 0.15s;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+  /* Layout */
+  .content {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 40px;
+  }
+
+  /* Section header */
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--ink);
+  }
+  .section-head h2 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+  .section-count {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--ink3);
+  }
+
+  /* Article cards */
+  .article-card {
+    display: flex;
+    gap: 16px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  .article-card:hover { background: var(--paper2); margin: 0 -8px; padding: 18px 8px; }
+  .article-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--rule);
+    min-width: 24px;
+    padding-top: 3px;
+  }
+  .article-body { flex: 1; }
+  .article-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 1px;
+    margin-bottom: 7px;
+  }
+  .tag-nursing { background: #fde8d8; color: #8b3a12; }
+  .tag-university { background: #d8eaf5; color: #1a4d6a; }
+  .tag-fusion { background: #d8f0e5; color: #1a5235; }
+  .tag-policy { background: #ede8f5; color: #3d2870; }
+  .tag-paper { background: #f5ede8; color: #6a3010; }
+
+  .article-title {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--ink);
+    margin-bottom: 6px;
+  }
+  .article-title:hover { color: var(--accent2); }
+  .article-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--ink3);
+    display: flex;
+    gap: 12px;
+  }
+  .article-source::before { content: "◆ "; font-size: 0.5rem; vertical-align: middle; }
+
+  /* Loading skeleton */
+  .skeleton {
+    background: linear-gradient(90deg, var(--paper2) 25%, var(--paper3) 50%, var(--paper2) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 2px;
+  }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+  /* Sidebar */
+  .sidebar {}
+  .sidebar-box {
+    background: var(--paper2);
+    border: 1px solid var(--rule);
+    border-top: 3px solid var(--ink);
+    padding: 18px;
+    margin-bottom: 20px;
+  }
+  .sidebar-box h3 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin-bottom: 14px;
+    letter-spacing: 0.02em;
+  }
+  .keyword-list { list-style: none; }
+  .keyword-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--rule);
+    font-size: 0.8rem;
+    color: var(--ink2);
+  }
+  .keyword-list li:last-child { border-bottom: none; }
+  .keyword-bar {
+    height: 4px;
+    background: var(--accent);
+    border-radius: 2px;
+    margin-top: 4px;
+  }
+
+  .stat-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--rule);
+    font-size: 0.78rem;
+  }
+  .stat-row:last-child { border-bottom: none; }
+  .stat-num {
+    font-family: 'DM Mono', monospace;
+    font-weight: 500;
+    color: var(--accent);
+  }
+
+  /* PDF button */
+  .pdf-btn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 0.04em;
+    transition: background 0.15s;
+    text-decoration: none;
+  }
+  .pdf-btn:hover { background: var(--accent); }
+  .pdf-btn-sub {
+    display: block;
+    text-align: center;
+    font-size: 0.68rem;
+    color: var(--ink3);
+    margin-top: 8px;
+  }
+
+  /* Status banner */
+  .status-banner {
+    background: var(--paper2);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--green);
+    padding: 10px 14px;
+    font-size: 0.75rem;
+    color: var(--ink2);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .status-dot {
+    width: 7px; height: 7px;
+    background: var(--green);
+    border-radius: 50%;
+    flex-shrink: 0;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+  /* Modal */
+  .modal-bg {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(26,24,20,0.6);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-bg.open { display: flex; }
+  .modal {
+    background: var(--paper);
+    border-top: 4px solid var(--accent);
+    max-width: 640px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 32px;
+    position: relative;
+  }
+  .modal-close {
+    position: absolute; top: 16px; right: 20px;
+    font-size: 1.4rem; cursor: pointer; color: var(--ink3);
+    background: none; border: none;
+  }
+  .modal-tag { margin-bottom: 10px; }
+  .modal-title {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: 12px;
+  }
+  .modal-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--ink3);
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .modal-body { font-size: 0.88rem; line-height: 1.9; color: var(--ink2); }
+  .modal-actions {
+    display: flex; gap: 10px; margin-top: 24px;
+  }
+  .btn-primary {
+    flex: 1; padding: 11px;
+    background: var(--ink); color: var(--paper);
+    border: none; font-size: 0.8rem;
+    font-family: 'Noto Sans KR', sans-serif;
+    cursor: pointer; font-weight: 500;
+    text-decoration: none; text-align: center;
+    transition: background 0.15s;
+  }
+  .btn-primary:hover { background: var(--accent2); }
+  .btn-secondary {
+    flex: 1; padding: 11px;
+    background: none; color: var(--ink);
+    border: 1px solid var(--ink); font-size: 0.8rem;
+    font-family: 'Noto Sans KR', sans-serif;
+    cursor: pointer; font-weight: 400;
+    transition: all 0.15s;
+  }
+  .btn-secondary:hover { background: var(--ink); color: var(--paper); }
+
+  @media (max-width: 768px) {
+    .content { grid-template-columns: 1fr; }
+    .masthead-inner { padding: 20px 16px 14px; }
+    .paper-name { font-size: 1.5rem; }
+    .content { padding: 16px; }
+    .filterbar { padding: 10px 16px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Masthead -->
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <div>
+        <div class="paper-name">AI 교육 <span>다이제스트</span></div>
+        <div class="tagline">AI · 간호교육 · 대학혁신 · 융합교육 최신 동향</div>
+      </div>
+      <div class="paper-meta">
+        <div id="today-date">—</div>
+        <div>매일 오전 07:00 업데이트</div>
+        <div>백석문화대학교 간호학과</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Filter bar -->
+<div class="filterbar">
+  <div class="filterbar-inner">
+    <span class="filter-label">분야 ▸</span>
+    <button class="chip active" data-filter="all" onclick="filterCards('all',this)">전체</button>
+    <button class="chip" data-filter="nursing" onclick="filterCards('nursing',this)">간호교육 AI</button>
+    <button class="chip" data-filter="university" onclick="filterCards('university',this)">대학교육 혁신</button>
+    <button class="chip" data-filter="fusion" onclick="filterCards('fusion',this)">융합교육</button>
+    <button class="chip" data-filter="policy" onclick="filterCards('policy',this)">정책·기관</button>
+    <button class="chip" data-filter="paper" onclick="filterCards('paper',this)">학술논문</button>
+  </div>
+</div>
+
+<div class="content">
+  <!-- Main feed -->
+  <main>
+    <div class="status-banner">
+      <div class="status-dot"></div>
+      <span id="status-text">최신 콘텐츠를 불러오는 중입니다...</span>
+    </div>
+
+    <div class="section-head">
+      <h2>오늘의 주요 동향</h2>
+      <span class="section-count" id="article-count">— 건</span>
+    </div>
+
+    <div id="article-list"></div>
+  </main>
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sidebar-box">
+      <h3>오늘의 PDF 요약본</h3>
+      <p style="font-size:0.78rem;color:var(--ink3);line-height:1.7;margin-bottom:14px;">
+        오늘 수집된 주요 기사·논문을 A4 1페이지로 정리한 요약본입니다.
+      </p>
+      <button class="pdf-btn" onclick="generatePDF()">▼ PDF 다운로드</button>
+      <span class="pdf-btn-sub">A4 1페이지 · 인쇄 최적화</span>
+    </div>
+
+    <div class="sidebar-box">
+      <h3>주요 검색 키워드</h3>
+      <ul class="keyword-list" id="keyword-list">
+        <li><span>AI nursing education</span></li>
+        <li><span>LLM clinical training</span></li>
+        <li><span>ChatGPT university</span></li>
+        <li><span>AI 간호교육</span></li>
+        <li><span>융합교육 혁신</span></li>
+      </ul>
+    </div>
+
+    <div class="sidebar-box">
+      <h3>수집 현황</h3>
+      <div class="stat-row"><span>학술논문 (PubMed)</span><span class="stat-num" id="stat-paper">—</span></div>
+      <div class="stat-row"><span>뉴스 기사</span><span class="stat-num" id="stat-news">—</span></div>
+      <div class="stat-row"><span>대학 보도자료</span><span class="stat-num" id="stat-press">—</span></div>
+      <div class="stat-row"><span>기관 보고서</span><span class="stat-num" id="stat-report">—</span></div>
+    </div>
+
+    <div class="sidebar-box">
+      <h3>이메일 발송 현황</h3>
+      <div class="stat-row"><span>다음 발송</span><span class="stat-num" id="next-send">—</span></div>
+      <div class="stat-row"><span>수신 이메일</span><span class="stat-num">설정 필요</span></div>
+    </div>
+  </aside>
+</div>
+
+<!-- Article modal -->
+<div class="modal-bg" id="modal" onclick="closeModal(event)">
+  <div class="modal">
+    <button class="modal-close" onclick="document.getElementById('modal').classList.remove('open')">✕</button>
+    <div class="modal-tag" id="modal-tag"></div>
+    <div class="modal-title" id="modal-title"></div>
+    <div class="modal-meta" id="modal-meta"></div>
+    <div class="modal-body" id="modal-body"></div>
+    <div class="modal-actions">
+      <a class="btn-primary" id="modal-link" href="#" target="_blank">원문 바로가기 →</a>
+      <button class="btn-secondary" onclick="document.getElementById('modal').classList.remove('open')">닫기</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ──────────────────────────────────────────────
+// 날짜 표시
+// ──────────────────────────────────────────────
+const now = new Date();
+const opts = { year:'numeric', month:'long', day:'numeric', weekday:'long' };
+document.getElementById('today-date').textContent =
+  now.toLocaleDateString('ko-KR', opts);
+
+// 다음 오전 7시 계산
+function nextSend() {
+  const t = new Date();
+  const next = new Date(t);
+  next.setHours(7, 0, 0, 0);
+  if (t >= next) next.setDate(next.getDate() + 1);
+  const diff = next - t;
+  const h = Math.floor(diff / 3600000);
+  const m = Math.floor((diff % 3600000) / 60000);
+  return `${h}시간 ${m}분 후`;
+}
+document.getElementById('next-send').textContent = nextSend();
+
+// ──────────────────────────────────────────────
+// 샘플 데이터 (실제 배포 시 fetch_and_email.py가 생성한 data.json 으로 교체됨)
+// ──────────────────────────────────────────────
+const SAMPLE_ARTICLES = [
+  {
+    id: 1, category: 'nursing',
+    tag: '간호교육 AI', tagClass: 'tag-nursing',
+    title: 'Large Language Models in Nursing Education: A Systematic Review of Clinical Simulation Applications',
+    source: 'Journal of Nursing Education', date: '2026-03-15',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/',
+    summary: 'GPT-4 기반 임상 시뮬레이션을 간호교육에 적용한 18개 연구를 체계적으로 분석. 학습자 만족도 평균 4.2/5.0, 임상판단력 향상 유의미. 산부인과·응급 분야 적용 효과 특히 두드러짐.'
+  },
+  {
+    id: 2, category: 'university',
+    tag: '대학교육 혁신', tagClass: 'tag-university',
+    title: 'MIT Announces AI-First Curriculum Redesign Across All Undergraduate Programs',
+    source: 'MIT News', date: '2026-03-15',
+    url: 'https://news.mit.edu/',
+    summary: 'MIT가 전 학부 과정에 AI 통합 교육과정 전면 개편을 발표. 2027년부터 모든 전공에 AI 리터러시 필수 이수 적용 예정. 의생명·간호 계열 별도 트랙 신설 포함.'
+  },
+  {
+    id: 3, category: 'paper',
+    tag: '학술논문', tagClass: 'tag-paper',
+    title: 'Effectiveness of AI-Powered Adaptive Learning in Maternal-Neonatal Nursing: RCT Results',
+    source: 'Nurse Education Today', date: '2026-03-14',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/',
+    summary: '모성-신생아 간호 교육에서 AI 적응형 학습 플랫폼의 효과를 무작위 대조시험으로 검증. 실험군 국시 합격률 8.3%p 향상, 자기효능감 유의미한 증가 (p<0.01).'
+  },
+  {
+    id: 4, category: 'policy',
+    tag: '정책·기관', tagClass: 'tag-policy',
+    title: 'WHO Releases Global Framework for AI Integration in Health Professions Education',
+    source: 'World Health Organization', date: '2026-03-14',
+    url: 'https://www.who.int/',
+    summary: 'WHO가 보건의료 전문직 교육에서의 AI 통합 글로벌 프레임워크를 발표. 간호·의료 교육기관의 AI 윤리, 역량 기준, 교수법 가이드라인 포함. 한국어 번역본 4월 예정.'
+  },
+  {
+    id: 5, category: 'fusion',
+    tag: '융합교육', tagClass: 'tag-fusion',
+    title: 'Interdisciplinary AI Curriculum: Bridging Nursing, Data Science, and Clinical Informatics',
+    source: 'EDUCAUSE Review', date: '2026-03-14',
+    url: 'https://educause.edu/',
+    summary: '간호학·데이터사이언스·임상정보학을 융합한 학제간 교육과정 모델 제시. 12개 대학 파일럿 프로그램 결과 취업률 23% 향상, 학생 역량 만족도 우수.'
+  },
+  {
+    id: 6, category: 'nursing',
+    tag: '간호교육 AI', tagClass: 'tag-nursing',
+    title: 'ChatGPT as a Virtual Preceptor: Exploring AI-Assisted Clinical Reasoning in Undergraduate Nursing',
+    source: 'Journal of Professional Nursing', date: '2026-03-13',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/',
+    summary: 'ChatGPT를 가상 프리셉터로 활용한 임상추론 교육 탐색 연구. 학생들의 비판적 사고 능력 향상과 의사소통 역량 증진 효과 확인. 윤리적 활용 가이드라인 필요성 제언.'
+  },
+  {
+    id: 7, category: 'university',
+    tag: '대학교육 혁신', tagClass: 'tag-university',
+    title: '한국 교육부, 대학 AI 교육혁신 지원사업 2026년 2차 공모 발표',
+    source: '교육부 보도자료', date: '2026-03-13',
+    url: 'https://www.moe.go.kr/',
+    summary: '교육부가 대학 AI 교육혁신 지원사업 2차 공모를 발표. 간호·보건계열 포함 전 학문 분야 대상, 대학당 최대 5억 원 지원. 신청 마감 4월 30일.'
+  },
+  {
+    id: 8, category: 'paper',
+    tag: '학술논문', tagClass: 'tag-paper',
+    title: 'Bibliometric Analysis of AI Research in Nursing Education: 2015–2025 Decade Review',
+    source: 'International Journal of Nursing Studies', date: '2026-03-13',
+    url: 'https://pubmed.ncbi.nlm.nih.gov/',
+    summary: '간호교육 AI 연구 10년(2015~2025) 서지 분석. 논문 수 연평균 34% 증가, 주요 키워드: simulation, ChatGPT, adaptive learning. 한국 연구 비중 아시아 2위.'
+  }
+];
+
+// ──────────────────────────────────────────────
+// 렌더링
+// ──────────────────────────────────────────────
+let currentFilter = 'all';
+let articles = [];
+
+function renderArticles(data) {
+  articles = data;
+  const list = document.getElementById('article-list');
+  const filtered = currentFilter === 'all' ? data : data.filter(a => a.category === currentFilter);
+  document.getElementById('article-count').textContent = `${filtered.length}건`;
+
+  // stats
+  document.getElementById('stat-paper').textContent  = data.filter(a=>a.category==='paper').length + '건';
+  document.getElementById('stat-news').textContent   = data.filter(a=>a.category==='university'||a.category==='fusion').length + '건';
+  document.getElementById('stat-press').textContent  = data.filter(a=>a.category==='nursing').length + '건';
+  document.getElementById('stat-report').textContent = data.filter(a=>a.category==='policy').length + '건';
+
+  list.innerHTML = filtered.map((a, i) => `
+    <div class="article-card" onclick="openModal(${a.id})">
+      <div class="article-num">${String(i+1).padStart(2,'0')}</div>
+      <div class="article-body">
+        <span class="article-tag ${a.tagClass}">${a.tag}</span>
+        <div class="article-title">${a.title}</div>
+        <div class="article-meta">
+          <span class="article-source">${a.source}</span>
+          <span>${a.date}</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+
+  document.getElementById('status-text').textContent =
+    `총 ${data.length}건 수집 완료 · ${now.toLocaleTimeString('ko-KR', {hour:'2-digit',minute:'2-digit'})} 기준`;
+}
+
+function filterCards(f, btn) {
+  currentFilter = f;
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  renderArticles(articles);
+}
+
+// ──────────────────────────────────────────────
+// Modal
+// ──────────────────────────────────────────────
+function openModal(id) {
+  const a = articles.find(x => x.id === id);
+  if (!a) return;
+  document.getElementById('modal-tag').innerHTML = `<span class="article-tag ${a.tagClass}">${a.tag}</span>`;
+  document.getElementById('modal-title').textContent = a.title;
+  document.getElementById('modal-meta').textContent = `${a.source}  ·  ${a.date}`;
+  document.getElementById('modal-body').textContent = a.summary || '요약 정보가 없습니다. 원문을 확인해 주세요.';
+  document.getElementById('modal-link').href = a.url;
+  document.getElementById('modal').classList.add('open');
+}
+function closeModal(e) {
+  if (e.target === document.getElementById('modal'))
+    document.getElementById('modal').classList.remove('open');
+}
+
+// ──────────────────────────────────────────────
+// PDF 생성 (print CSS)
+// ──────────────────────────────────────────────
+function generatePDF() {
+  const filtered = currentFilter === 'all' ? articles : articles.filter(a => a.category === currentFilter);
+  const dateStr = now.toLocaleDateString('ko-KR');
+  const rows = filtered.slice(0, 12).map((a, i) =>
+    `<tr>
+      <td style="padding:6px 8px;border-bottom:1px solid #ddd;font-size:11px;color:#666;font-family:monospace">${String(i+1).padStart(2,'0')}</td>
+      <td style="padding:6px 8px;border-bottom:1px solid #ddd;font-size:10px;color:#888">${a.tag}</td>
+      <td style="padding:6px 8px;border-bottom:1px solid #ddd;font-size:11.5px;line-height:1.4">${a.title}</td>
+      <td style="padding:6px 8px;border-bottom:1px solid #ddd;font-size:10px;color:#888;white-space:nowrap">${a.source}</td>
+    </tr>`
+  ).join('');
+
+  const html = `<!DOCTYPE html><html><head><meta charset="UTF-8">
+  <style>
+    @page { size: A4; margin: 18mm 14mm; }
+    body { font-family: 'Noto Sans KR', sans-serif; font-size: 12px; color: #1a1814; }
+    h1 { font-size: 20px; font-weight: 700; border-bottom: 2.5px solid #1a1814; padding-bottom: 8px; margin-bottom: 4px; }
+    .sub { font-size: 10px; color: #888; margin-bottom: 18px; }
+    table { width: 100%; border-collapse: collapse; }
+    th { background: #1a1814; color: #f8f5ef; font-size: 10px; padding: 7px 8px; text-align: left; }
+    .footer { margin-top: 18px; font-size: 9px; color: #aaa; text-align: right; }
+  </style></head><body>
+  <h1>AI 교육 다이제스트</h1>
+  <div class="sub">${dateStr} · 백석문화대학교 간호학과 · AI·대학교육혁신·간호교육 동향</div>
+  <table>
+    <thead><tr><th>#</th><th>분야</th><th>제목</th><th>출처</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table>
+  <div class="footer">본 자료는 자동 수집·정리된 정보입니다. 원문 확인을 권장합니다.</div>
+  </body></html>`;
+
+  const w = window.open('', '_blank');
+  w.document.write(html);
+  w.document.close();
+  setTimeout(() => w.print(), 500);
+}
+
+// ──────────────────────────────────────────────
+// 데이터 로드 (data.json 이 있으면 사용, 없으면 샘플)
+// ──────────────────────────────────────────────
+fetch('data.json')
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(data => renderArticles(data))
+  .catch(() => {
+    setTimeout(() => renderArticles(SAMPLE_ARTICLES), 600);
+  });
+</script>
+</body>
+</html>
