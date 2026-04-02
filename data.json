@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Usability and feasibility of a Socratic Llm-supported learning tool for clinical reasoning in undergraduate nursing education.",
+    "source": "Nurse education today",
+    "date": "2026-Mar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41921336/",
+    "summary": "To evaluate clinical reasoning outcomes and the usability and feasibility of an AI-supported platform that uses a large language model (LLM) to foster higher-order thinking via the Socratic method...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Impact of an Immersive AI Simulation on Nursing Student Attitudes Toward Mental Illness.",
     "source": "Computers, informatics, nursing : CIN",
     "date": "2026-Mar",
@@ -10,33 +20,13 @@
     "summary": "There is simultaneously a global shortage of mental health professionals and a rising demand for mental health services. Nurses provide the largest share of behavioral health care worldwide, yet nursing students are generally disinterested in mental health nursing and hold negative attitudes toward ..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Reimagining Nursing Theories in the Age of Artificial Intelligence: Preserving the Human Essence Amid Digital Transformation.",
-    "source": "Nursing inquiry",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41911479/",
-    "summary": "The exponential growth of artificial intelligence (AI) in healthcare has sparked both enthusiasm and apprehension within the nursing discipline. While AI promises to enhance clinical efficiency, accuracy, and decision-making, it simultaneously challenges nursing's humanistic foundations, its ethical..."
-  },
-  {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-04-02",
+    "url": "",
     "summary": ""
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
-    "source": "SAGE open nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
-    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   }
 ]
