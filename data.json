@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "From prompting to practice: Empowering faculty with AI and prompting tools.",
+    "source": "Nurse education today",
+    "date": "2026-Mar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41930843/",
+    "summary": "As artificial intelligence (AI) transforms nursing education, faculty must develop digital literacy and prompt engineering skills to integrate these tools effectively. This paper explores how core nursing competencies align with prompt engineering practices. Practical frameworks and examples support..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Usability and feasibility of a Socratic Llm-supported learning tool for clinical reasoning in undergraduate nursing education.",
     "source": "Nurse education today",
     "date": "2026-Mar",
@@ -10,22 +20,12 @@
     "summary": "To evaluate clinical reasoning outcomes and the usability and feasibility of an AI-supported platform that uses a large language model (LLM) to foster higher-order thinking via the Socratic method...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Impact of an Immersive AI Simulation on Nursing Student Attitudes Toward Mental Illness.",
-    "source": "Computers, informatics, nursing : CIN",
-    "date": "2026-Mar",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41912252/",
-    "summary": "There is simultaneously a global shortage of mental health professionals and a rising demand for mental health services. Nurses provide the largest share of behavioral health care worldwide, yet nursing students are generally disinterested in mental health nursing and hold negative attitudes toward ..."
-  },
-  {
     "id": 3,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-04-02",
+    "date": "2026-04-03",
     "url": "",
     "summary": ""
   }
