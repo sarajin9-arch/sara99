@@ -3,44 +3,24 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "AI disclosure uncertainty in nursing education: A pedagogical scaffold for professional learning.",
+    "title": "Beyond literacy to clinical competency: A framework for integrating generative AI into nursing education.",
     "source": "Nurse education today",
-    "date": "2026-Mar",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41946227/",
-    "summary": "Generative artificial intelligence (AI) is rapidly reshaping how nursing students produce and communicate academic work, intensifying questions about authorship, accountability, and trust. Although AI disclosure is widely promoted in nursing education, disclosure practices remain uneven and conteste..."
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41950601/",
+    "summary": "Health systems are rapidly integrating generative artificial intelligence (GenAI) into clinical workflows, introducing safety risks including hallucinations and automation bias. These risks threaten patient safety when frontline nurses lack preparation to critically verify AI-generated outputs. Nurs..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Development and Pilot Testing of the Readiness to Teach LGBTQ+ Health-Related Care Tool.",
-    "source": "Nursing education perspectives",
+    "title": "Recalibrating the value of presence: A qualitative study on generative AI, attendance, and professional formation in undergraduate nursing.",
+    "source": "Nurse education today",
     "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41943204/",
-    "summary": "This study aimed to share the results of developing and pilot testing a tool designed to measure nurse faculty's readiness to teach lesbian, gay, bisexual, transgender, queer, or another sexual or gender minority (LGBTQ+) health-related care...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41950599/",
+    "summary": "Generative AI (genAI) is now embedded in higher education, yet its implications for undergraduate nursing students' decisions to attend voluntary on-campus learning alongside mandatory Clinical Learning Environment (CLE) activities remain underexplored, particularly in regulated clinical-hours conte..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Protocol for a scoping review examining the application of large language models in healthcare education and public health learning spaces.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41481763/",
-    "summary": "Through this scoping review, we aim to explore and synthesize existing knowledge and evidence on the learning approaches for incorporating LLMs into healthcare education and public health research and learning spaces. Specifically, we will attempt to investigate methods for auditing prompts for accu..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "A prospective single-masked, non-inferiority, parallel-group randomized controlled trial of the efficacy of a ChatGPT-based AI chatbot to improve Boston bowel preparation scores for colonoscopy preparation: A trial protocol.",
-    "source": "PloS one",
-    "date": "2025-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41091774/",
-    "summary": "Artificial intelligence (AI) is transforming healthcare through tools like large language model chatbots. AI chatbots can simulate human conversation, provide personalized information, and interact with patients in real time. Their ease of use and conversational interface make them attractive for he..."
-  },
-  {
-    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
@@ -50,7 +30,7 @@
     "summary": ""
   },
   {
-    "id": 6,
+    "id": 4,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
@@ -60,12 +40,32 @@
     "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   },
   {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "The use of large language models in generating multiple choice questions for health professions education: A systematic review and network meta-analysis.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41481658/",
+    "summary": "Large language models (LLMs) have the potential to change medical education. Whether LLMs can generate multiple-choice questions (MCQs) that are of similar quality to those created by humans is unclear. This investigation assessed the quality of MCQs generated by LLMs compared to humans...."
+  },
+  {
     "id": 7,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "url": "",
     "summary": ""
   }
