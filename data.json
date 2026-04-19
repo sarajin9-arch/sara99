@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Artificial intelligence literacy, readiness, and innovativeness: Exploring interrelationships in undergraduate nursing students.",
+    "source": "Nurse education today",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42000591/",
+    "summary": "This study aimed to examine the relationships between AI literacy, medical AI readiness, and individual innovativeness among nursing students...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Climate anxiety among nursing students: a scoping review.",
     "source": "BMC nursing",
     "date": "2026-Apr",
@@ -10,7 +20,17 @@
     "summary": ""
   },
   {
-    "id": 2,
+    "id": 3,
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Effects of ChatGPT-generated immediate feedback integrated into VR-based OSCEs on nursing students' performance: a randomized crossover study.",
+    "source": "BMC nursing",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41975412/",
+    "summary": ""
+  },
+  {
+    "id": 4,
     "category": "nursing",
     "tag": "간호교육 AI",
     "title": "Advancing Nursing Education: Evaluating Artificial Intelligence (AI) and Escape Room (ER) Approaches for E-Learning and Interpretation Skills.",
@@ -20,12 +40,32 @@
     "summary": "The spread of new educational technologies has challenged the cold and inflexible framework of traditional education, aiming to replace centuries-old methods with short, low-cost methods to improve learning and educational productivity. Thus, this study aimed to compare the effects of artificial int..."
   },
   {
-    "id": 3,
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": ""
+  },
+  {
+    "id": 6,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 7,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-04-18",
+    "date": "2026-04-19",
     "url": "",
     "summary": ""
   }
