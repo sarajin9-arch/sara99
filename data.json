@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Digital readiness in nursing education: eHealth literacy, AI attitudes, and associated factors among undergraduate students.",
-    "source": "Nurse education today",
+    "title": "Nurse Educators' ChatGPT Use in Canadian Undergraduate Nursing Education: A Qualitative Study.",
+    "source": "The Journal of nursing education",
     "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42026438/",
-    "summary": "Digital readiness has become a critical competency for future nurses in the evolving landscape of healthcare. Two essential components of this readiness-eHealth literacy and attitudes toward artificial intelligence (AI)-have gained prominence in nursing education. However, limited evidence exists re..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42043379/",
+    "summary": "Heath care and education have both experienced rapid growth in artificial intelligence (AI) use, especially with generative tools such as ChatGPT. This study explores nurse educators' perspectives on ChatGPT's educational value, implementation challenges, and implications for professional standards...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "\"Perceptions of artificial intelligence in nursing students: A qualitative meta-synthesis based on the UTAUT2 model\".",
-    "source": "Nurse education today",
+    "title": "Code Cracked: Using Artificial Intelligence to Transform Nursing Case Studies Into Virtual Escape Rooms.",
+    "source": "The Journal of nursing education",
     "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42019200/",
-    "summary": "Artificial intelligence (AI) is rapidly transforming nursing education and clinical practice. Understanding students' perceptions is essential for designing effective and equitable AI-enhanced learning strategies. The Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) offers a robust mode..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42043341/",
+    "summary": "Artificial intelligence (AI) is transforming nursing education by offering innovative strategies to support clinical judgment, engagement, and competency development...."
   },
   {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": ""
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-04-26",
+    "date": "2026-04-27",
     "url": "",
     "summary": ""
   }
