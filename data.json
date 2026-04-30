@@ -3,69 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial Intelligence in Obstetrics and Gynecology Nursing: Clinical, Educational, and Ethical Perspectives.",
-    "source": "Cureus",
-    "date": "2026-Mar",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42051848/",
-    "summary": "Artificial intelligence (AI) is rapidly transforming healthcare by enabling advanced data analysis, predictive modeling, and intelligent clinical decision support systems. In obstetrics and gynecology (OBG) nursing, AI technologies are increasingly recognized as valuable tools for improving maternal..."
+    "title": "An evaluation of the impact of a double preceptorship model on nursing students' career adaptability: a quasi-experimental study.",
+    "source": "BMC nursing",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42057078/",
+    "summary": "Preceptorship is a crucial component of nursing education in the final year, as it facilitates the transition to being a registered nurse. Preceptors guide student nurses in the clinical area through supervision and development, typically employing a traditional model with multiple ward-based precep..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Effectiveness of interventions to address moral distress in nursing students: An integrative review.",
-    "source": "Nursing ethics",
+    "title": "Artificial Intelligence-Ready Doctor of Nursing Practice Education: A Competency-Based Approach.",
+    "source": "Journal of doctoral nursing practice",
     "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42047570/",
-    "summary": "Moral distress is an increasing concern in nursing education, with evidence that it may undermine learning, ethical confidence, and early professional identity formation. Although the literature includes strategies to address moral distress among nurses, less is known about effective strategies to m..."
-  },
-  {
-    "id": 3,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Health Professional Students' Use of Generative Artificial Intelligence During Clinical Placements: Cross-Sectional Online Survey Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42044362/",
-    "summary": "Generative artificial intelligence (GenAI) is rapidly expanding in higher education and clinical practice. However, its use during clinical placements, where cognitive demands and responsibility for patient care increase, remains insufficiently documented...."
-  },
-  {
-    "id": 4,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "A Pilot Study Exploring the Use of Generative Artificial Intelligence in Nursing Education.",
-    "source": "Nursing education perspectives",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42043776/",
-    "summary": "In this pilot study, which utilized a pretest/posttest design, baccalaureate nursing students used artificial intelligence to generate a case scenario and nursing care plan and analyzed the content for accuracy, bias, and holistic nursing practices. The authors found that students had statistically ..."
-  },
-  {
-    "id": 5,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
-    "source": "The clinical teacher",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42055571/",
     "summary": ""
   },
   {
-    "id": 6,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Protocol for a scoping review examining the application of large language models in healthcare education and public health learning spaces.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41481763/",
-    "summary": "Through this scoping review, we aim to explore and synthesize existing knowledge and evidence on the learning approaches for incorporating LLMs into healthcare education and public health research and learning spaces. Specifically, we will attempt to investigate methods for auditing prompts for accu..."
-  },
-  {
-    "id": 7,
+    "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "url": "",
     "summary": ""
   }
