@@ -3,21 +3,21 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial intelligence in nursing education: knowledge, perceptions, and associated factors among Egyptian nursing students across universities.",
-    "source": "BMC nursing",
+    "title": "Artificial Intelligence Literacy and Utilization Barriers in Nursing Learning: A Qualitative Exploration.",
+    "source": "The Journal of nursing education",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42106807/",
-    "summary": "To assess Egyptian nursing students' level of AI knowledge, perceptions of AI benefits, and fears regarding AI in nursing education and practice, and to examine associated sociodemographic factors...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42112901/",
+    "summary": "The artificial intelligence (AI) transformation of nursing education hinges on students' AI literacy. This study explores nursing students' AI literacy and utilization barriers in AI-assisted learning...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Eroding scholarly integrity: Confronting the misuse of generative AI in nursing education.",
-    "source": "Nurse education today",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42096878/",
-    "summary": "The integration of generative artificial intelligence (AI) into higher education has introduced powerful tools to support student learning. In nursing education, platforms such as ChatGPT are increasingly used to assist with brainstorming, outlining, and improving academic writing. Although these te..."
+    "title": "Digital affordances of AI chatbots in nursing education: a systematic review of learning gains and gaps in the evidence.",
+    "source": "Frontiers in medicine",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42110468/",
+    "summary": "Digital affordances refer to the possibilities provided by digital environments for learners. In the context of nursing education, artificial intelligence (AI) chatbots currently offer multimodal learning approaches and demonstrate various possibilities for digital actions. Therefore, exploring the ..."
   },
   {
     "id": 3,
@@ -38,5 +38,15 @@
     "date": "2026-03",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
     "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-05-11",
+    "url": "",
+    "summary": ""
   }
 ]
