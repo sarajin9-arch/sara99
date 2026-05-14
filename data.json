@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Attitudes toward artificial intelligence in nursing education, research, and clinical practice: a cross-sectional survey of Iranian faculty, nurses, and students.",
-    "source": "BMC nursing",
+    "title": "Reflections of Cultural Differences on Nursing Care: A Systematic Review of International Quantitative Evidence.",
+    "source": "Holistic nursing practice",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42121226/",
-    "summary": "Artificial intelligence (AI) is rapidly transforming healthcare, offering opportunities to enhance accuracy, efficiency, and personalized care in nursing. However, successful integration depends on the attitudes and readiness of nursing professionals and students. Limited evidence exists on these pe..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42132346/",
+    "summary": "This systematic review examined the effects of cultural differences in nursing care on care quality, communication, trust, patient satisfaction, and professional competence, based on quantitative research. The study was conducted as a Systematic Review. A search was performed in PubMed, Web of Scien..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Fostering Cultural Safety Through AI-Based Simulations: A Mixed-Methods Study in Nursing Education.",
-    "source": "The Journal of nursing education",
+    "title": "Levels of Artificial Intelligence Literacy Among Nursing Students: A Systematic Review and Meta-Analysis.",
+    "source": "Nurse educator",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42118556/",
-    "summary": "Increasing cultural diversity requires nurses to ensure cultural safety in patient care. Artificial intelligence (AI)-based simulations offer promising experiential learning, yet evidence of their effectiveness remains limited. This study analyzed communication strategies used by nursing students du..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42130247/",
+    "summary": "The growing integration of artificial intelligence (AI) into nursing education makes AI literacy a critical competency for students to effectively use AI and advance educational practices...."
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-13",
+    "date": "2026-05-14",
     "url": "",
     "summary": ""
   }
