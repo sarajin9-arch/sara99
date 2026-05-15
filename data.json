@@ -3,41 +3,41 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Reflections of Cultural Differences on Nursing Care: A Systematic Review of International Quantitative Evidence.",
-    "source": "Holistic nursing practice",
+    "title": "Generative AI for ECG Interpretation Education: Impact on Nursing, Student Performance, and AI Model Accuracy.",
+    "source": "Nurse educator",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42132346/",
-    "summary": "This systematic review examined the effects of cultural differences in nursing care on care quality, communication, trust, patient satisfaction, and professional competence, based on quantitative research. The study was conducted as a Systematic Review. A search was performed in PubMed, Web of Scien..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42139039/",
+    "summary": "Electrocardiogram (ECG) interpretation is a critical yet challenging skill for nurses. Generative artificial intelligence (AI) offers potential for personalized, adaptive learning...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Levels of Artificial Intelligence Literacy Among Nursing Students: A Systematic Review and Meta-Analysis.",
-    "source": "Nurse educator",
+    "title": "Generative artificial intelligence in undergraduate paediatric nursing education: A scoping review of current applications and ethical considerations.",
+    "source": "Nurse education today",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42130247/",
-    "summary": "The growing integration of artificial intelligence (AI) into nursing education makes AI literacy a critical competency for students to effectively use AI and advance educational practices...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134231/",
+    "summary": "Paediatric content in undergraduate nursing education is typically delivered through lectures, simulation, and clinical placements. Constraints include reduced placement availability, variable learning quality, and shortages of paediatric-qualified educators have increased reliance on simulation and..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": ""
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
-    "summary": ""
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "url": "",
     "summary": ""
   }
