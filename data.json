@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Performance of large language models on nursing licensure examinations: A systematic review and meta-analysis.",
+    "source": "Nurse education today",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150508/",
+    "summary": "This systematic review and meta-analysis assessed the performance of large language models (LLMs) in nursing licensure examinations. Despite the increasing use of LLMs in healthcare education, their capabilities in nursing licensure examinations remain uncertain. This study provides evidence on the ..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Generative AI for ECG Interpretation Education: Impact on Nursing, Student Performance, and AI Model Accuracy.",
     "source": "Nurse educator",
     "date": "2026-May",
@@ -10,22 +20,12 @@
     "summary": "Electrocardiogram (ECG) interpretation is a critical yet challenging skill for nurses. Generative artificial intelligence (AI) offers potential for personalized, adaptive learning...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Generative artificial intelligence in undergraduate paediatric nursing education: A scoping review of current applications and ethical considerations.",
-    "source": "Nurse education today",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42134231/",
-    "summary": "Paediatric content in undergraduate nursing education is typically delivered through lectures, simulation, and clinical placements. Constraints include reduced placement availability, variable learning quality, and shortages of paediatric-qualified educators have increased reliance on simulation and..."
-  },
-  {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-18",
+    "date": "2026-05-19",
     "url": "",
     "summary": ""
   }
