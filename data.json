@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Performance of large language models on nursing licensure examinations: A systematic review and meta-analysis.",
-    "source": "Nurse education today",
+    "title": "Teaching Ethical AI Use in Graduate Nursing Programs: A Scaffolded Model for Professional Identity Formation.",
+    "source": "The Journal of nursing education",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42150508/",
-    "summary": "This systematic review and meta-analysis assessed the performance of large language models (LLMs) in nursing licensure examinations. Despite the increasing use of LLMs in healthcare education, their capabilities in nursing licensure examinations remain uncertain. This study provides evidence on the ..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42160362/",
+    "summary": "Generative artificial intelligence (AI) has entered graduate nursing education faster than programs can respond, raising questions about professional identity formation, epistemic accountability, and academic integrity...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Generative AI for ECG Interpretation Education: Impact on Nursing, Student Performance, and AI Model Accuracy.",
-    "source": "Nurse educator",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139039/",
-    "summary": "Electrocardiogram (ECG) interpretation is a critical yet challenging skill for nurses. Generative artificial intelligence (AI) offers potential for personalized, adaptive learning...."
+    "title": "Establishing Nurse Innovator Competencies: A Collaborative Initiative.",
+    "source": "HCA healthcare journal of medicine",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42158484/",
+    "summary": "Rapid advancements in augmented and artificial intelligence (AI) are reshaping health care, necessitating a strategic approach to integrating innovation into nursing education and practice. This article details a collaborative initiative between academic and practice partners aimed at the initial st..."
   },
   {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": ""
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-19",
+    "date": "2026-05-20",
     "url": "",
     "summary": ""
   }
