@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Effectiveness of a generative AI-powered digital tutor integrated with a knowledge graph in anatomy education for nursing students: a randomized controlled trial.",
+    "source": "BMC medical education",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42174555/",
+    "summary": "Human Anatomy and Histology & Embryology are foundational courses in nursing education but are often challenging for students due to their complex spatial structures, dense knowledge points, and high cognitive load. Recent advances in generative artificial intelligence (AI) and knowledge graph techn..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Real-time interaction with artificial intelligence and its association with learning experience and academic performance among undergraduate nursing students in Peshawar: an analytical cross-sectional study.",
     "source": "BMC medical education",
     "date": "2026-May",
@@ -10,22 +20,32 @@
     "summary": "Artificial intelligence (AI) has been widely incorporated in the education domain for offering adaptive learning, personalized feedback and engagement to students. These technologies may help increase students learning experiences, as well as academic outcomes...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "The mediating role of critical thinking between AI literacy and learning burnout in nursing students using generative AI: A cross-sectional descriptive study.",
-    "source": "Nurse education today",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42161040/",
-    "summary": "Learning burnout hinders nursing students' academic and professional development. Despite the growing integration of artificial intelligence (AI) in education, the mediating role of critical thinking between AI literacy and learning burnout remains unclear in nursing education...."
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
   },
   {
-    "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
+  },
+  {
+    "id": 5,
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-22",
+    "date": "2026-05-23",
     "url": "",
     "summary": ""
   }
