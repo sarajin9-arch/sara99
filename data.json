@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Knowledge, Attitude, Benefits, Risks, Barriers, Professional Impact, and Preparedness of Nursing Students Toward the Utilization of Artificial Intelligence in Healthcare.",
+    "source": "Nursing reports (Pavia, Italy)",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42188647/",
+    "summary": ""
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Faculty's Digital Accessibility Assistant: Does Generative AI Write Accurate, Meaningful, and Useful Alternative Text for Course Images?",
     "source": "Nurse educator",
     "date": "2026-May",
@@ -10,33 +20,13 @@
     "summary": "Alternative text (alt text) for images is critical for digital accessibility, but faculty often lack time or training to create it. Generative artificial intelligence (AI) offers a potential solution, although its effectiveness in education is underexplored...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Artificial Intelligence in the Teaching Practice of Nursing Professionals: Opportunities, Applications, and Challenges.",
-    "source": "Enfermeria clinica",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177027/",
-    "summary": "The incorporation of artificial intelligence (AI) into nursing education is becoming a key tool to respond to the growing demands for patient safety and excellence in care. This article examines the potential of AI to enrich training, highlighting the need for students to become familiar with techno..."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-05-26",
+    "url": "",
     "summary": ""
   }
 ]
