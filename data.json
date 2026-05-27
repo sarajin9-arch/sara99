@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Knowledge, Attitude, Benefits, Risks, Barriers, Professional Impact, and Preparedness of Nursing Students Toward the Utilization of Artificial Intelligence in Healthcare.",
-    "source": "Nursing reports (Pavia, Italy)",
+    "title": "Conceptualization, Contexts, and Measurement of Nursing Theoretical Literacy: Protocol for a Scoping Review.",
+    "source": "JMIR research protocols",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42188647/",
-    "summary": ""
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202174/",
+    "summary": "Nursing theory and conceptual models are central to nursing as a knowledge discipline, yet theory is often perceived as abstract and difficult to operationalize in education and practice. This theory-practice tension suggests variability in nurses' and nursing students' capability to access, interpr..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Faculty's Digital Accessibility Assistant: Does Generative AI Write Accurate, Meaningful, and Useful Alternative Text for Course Images?",
-    "source": "Nurse educator",
+    "title": "Integrating Artificial Intelligence into Community Health Nursing Education and Practice: Opportunities, Ethical Challenges, and Future Directions.",
+    "source": "Healthcare (Basel, Switzerland)",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179302/",
-    "summary": "Alternative text (alt text) for images is critical for digital accessibility, but faculty often lack time or training to create it. Generative artificial intelligence (AI) offers a potential solution, although its effectiveness in education is underexplored...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42194496/",
+    "summary": ""
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
+    "source": "The clinical teacher",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
+    "summary": ""
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Protocol for a scoping review examining the application of large language models in healthcare education and public health learning spaces.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41481763/",
+    "summary": "Through this scoping review, we aim to explore and synthesize existing knowledge and evidence on the learning approaches for incorporating LLMs into healthcare education and public health research and learning spaces. Specifically, we will attempt to investigate methods for auditing prompts for accu..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "url": "",
     "summary": ""
   }
