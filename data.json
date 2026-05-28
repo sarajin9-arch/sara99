@@ -23,21 +23,21 @@
     "id": 3,
     "category": "paper",
     "tag": "학술논문",
-    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
-    "source": "The clinical teacher",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
-    "summary": ""
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
   },
   {
     "id": 4,
     "category": "paper",
     "tag": "학술논문",
-    "title": "Protocol for a scoping review examining the application of large language models in healthcare education and public health learning spaces.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41481763/",
-    "summary": "Through this scoping review, we aim to explore and synthesize existing knowledge and evidence on the learning approaches for incorporating LLMs into healthcare education and public health research and learning spaces. Specifically, we will attempt to investigate methods for auditing prompts for accu..."
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "url": "",
     "summary": ""
   }
