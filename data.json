@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Conceptual analysis of Chatbots in nursing education applications.",
+    "source": "Nurse education today",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224794/",
+    "summary": "Chatbots are receiving growing attention in nursing education, yet the term is often used imprecisely and is sometimes conflated with current large language model (LLM)-based systems. This lack of conceptual clarity weakens cumulative research, hinders comparison across studies, and complicates impl..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Investigating the associations between AI-Based educational tool utilization, academic procrastination, academic achievement, and time management among nursing students.",
     "source": "BMC nursing",
     "date": "2026-May",
@@ -10,13 +20,13 @@
     "summary": "The role of artificial intelligence (AI) tools in education has transformed the way students learn and manage their academic tasks. However, health professions education has not sufficiently studied the role of AI tools in procrastination, time management, and academic achievement...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Revolutionizing Nursing Education in Somalia: Recommendations for Integrating AI and Deep Learning in Outcome Based Assessments to Enhance Knowledge, Practice, and Graduate Competence.",
-    "source": "Journal of multidisciplinary healthcare",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42212180/",
-    "summary": "Artificial intelligence (AI) and deep learning hold significant potential to strengthen outcome-based assessment in Somali nursing education. Somalia's nursing education system faces critical challenges including inadequate standardization, uneven competency assessment, urban-rural disparities in ac..."
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-06-01",
+    "url": "",
+    "summary": ""
   }
 ]
