@@ -3,50 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Conceptual analysis of Chatbots in nursing education applications.",
-    "source": "Nurse education today",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224794/",
-    "summary": "Chatbots are receiving growing attention in nursing education, yet the term is often used imprecisely and is sometimes conflated with current large language model (LLM)-based systems. This lack of conceptual clarity weakens cumulative research, hinders comparison across studies, and complicates impl..."
+    "title": "The relationship between AI self-efficacy and critical thinking among nursing students: A network analysis.",
+    "source": "Nurse education in practice",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42235277/",
+    "summary": "This study used network analysis to characterize the internal structure of artificial intelligence self-efficacy (AISE) among nursing students and to examine how specific AISE components related to critical thinking (CT)...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Investigating the associations between AI-Based educational tool utilization, academic procrastination, academic achievement, and time management among nursing students.",
-    "source": "BMC nursing",
+    "title": "Conceptual analysis of Chatbots in nursing education applications.",
+    "source": "Nurse education today",
     "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42216152/",
-    "summary": "The role of artificial intelligence (AI) tools in education has transformed the way students learn and manage their academic tasks. However, health professions education has not sufficiently studied the role of AI tools in procrastination, time management, and academic achievement...."
-  },
-  {
-    "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
-    "summary": ""
-  },
-  {
-    "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-06-03",
-    "url": "",
-    "summary": ""
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224794/",
+    "summary": "Chatbots are receiving growing attention in nursing education, yet the term is often used imprecisely and is sometimes conflated with current large language model (LLM)-based systems. This lack of conceptual clarity weakens cumulative research, hinders comparison across studies, and complicates impl..."
   }
 ]
