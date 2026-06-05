@@ -3,20 +3,40 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The relationship between AI self-efficacy and critical thinking among nursing students: A network analysis.",
-    "source": "Nurse education in practice",
+    "title": "Content Validation of the AI-TPACK-E: Assessing AI Literacy Among Nurse Educators.",
+    "source": "Computers, informatics, nursing : CIN",
     "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235277/",
-    "summary": "This study used network analysis to characterize the internal structure of artificial intelligence self-efficacy (AISE) among nursing students and to examine how specific AISE components related to critical thinking (CT)...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42242198/",
+    "summary": "There is a critical need to assess nurse educators' competencies in artificial intelligence (AI), yet no validated assessment tool currently exists to measure their level of AI literacy. Developing such a tool is critical to guide targeted educational strategies and inform curriculum design that pre..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Conceptual analysis of Chatbots in nursing education applications.",
+    "title": "Association between generative artificial intelligence-related factors and self-directed learning ability among nursing students: a cross-sectional study.",
     "source": "Nurse education today",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224794/",
-    "summary": "Chatbots are receiving growing attention in nursing education, yet the term is often used imprecisely and is sometimes conflated with current large language model (LLM)-based systems. This lack of conceptual clarity weakens cumulative research, hinders comparison across studies, and complicates impl..."
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42242110/",
+    "summary": "Generative artificial intelligence (generative AI) has emerged as an innovative tool in the healthcare and educational sectors and as an important tool for learning. Yet, limited empirical research has examined the related factors and associations of generative AI with self-directed learning ability..."
+  },
+  {
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   }
 ]
