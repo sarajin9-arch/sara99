@@ -3,20 +3,30 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Exploring factors associated with nursing students' artificial intelligence literacy: insights from a national mixed methods study.",
-    "source": "BMC nursing",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42249446/",
-    "summary": "Integrating artificial intelligence (AI) into healthcare is rapidly expanding, yet research on nursing students' AI literacy (AIL) remains limited. This study assessed AIL levels, identified factors associated with AIL, and explored students' perceptions of AI use...."
+    "title": "Applications of generative artificial intelligence in undergraduate nursing education: A scoping review.",
+    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250938/",
+    "summary": "The rapid emergence of generative artificial intelligence (genAI) technologies has created new opportunities and challenges in undergraduate nursing education. As educators seek to integrate these tools into curricula, understanding their current applications and implications is essential...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Enhancing Learning in Graduate Nursing Education Through a Co-Designed AI Virtual Tutor: A Mixed-Methods Evaluation.",
-    "source": "Journal of clinical nursing",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42248818/",
-    "summary": "Large language model tools are increasingly used in higher education, offering opportunities to support self-directed learning. In nursing education, course-specific AI virtual tutors may provide contextualised support while addressing concerns about content accuracy and alignment; yet empirical evi..."
+    "title": "Leveraging artificial intelligence to facilitate backward design and competency scaffolding in undergraduate nursing education.",
+    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250936/",
+    "summary": "Competency-based nursing education is facilitated by creating a scaffolded structure of outcomes, assessments, and educational experiences that challenge students to grow in critical thinking, clinical, and professional skills. Given the interdependent nature of curricular elements and the faculty-s..."
+  },
+  {
+    "id": 3,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-06-07",
+    "url": "",
+    "summary": ""
   }
 ]
