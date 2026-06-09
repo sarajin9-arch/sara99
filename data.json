@@ -18,5 +18,75 @@
     "date": "2026-03",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42250938/",
     "summary": "The rapid emergence of generative artificial intelligence (genAI) technologies has created new opportunities and challenges in undergraduate nursing education. As educators seek to integrate these tools into curricula, understanding their current applications and implications is essential...."
+  },
+  {
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
+    "source": "Scientific reports",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
+    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
+    "source": "The clinical teacher",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
+    "summary": ""
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—..."
+  },
+  {
+    "id": 6,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 7,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
+  },
+  {
+    "id": 8,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
+  },
+  {
+    "id": 9,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-06-09",
+    "url": "",
+    "summary": ""
   }
 ]
