@@ -3,64 +3,24 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "What AI Cannot Teach: An Epistemological Reconceptualisation of the Nurse Educator Role Based on an Analysis of Carper's Ways of Knowing.",
-    "source": "Nursing inquiry",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42252748/",
-    "summary": "The rapid integration of artificial intelligence into healthcare and education is transforming how nurses teach, learn and acquire knowledge. Despite this, the nursing literature has largely viewed artificial intelligence as a tool to either adopt or reject, with limited engagement with the deeper e..."
+    "title": "Artificial Intelligence Applications Versus Manual Methods For Literature Retrieval: A Comparative Analysis.",
+    "source": "Western journal of nursing research",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42267644/",
+    "summary": "Artificial intelligence (AI), particularly generative and large language models, is being used in nursing education, practice, and scholarly writing. Generative AI applications have been specifically examined for their use in conducting literature reviews with evidence supporting reduced production ..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Applications of generative artificial intelligence in undergraduate nursing education: A scoping review.",
-    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42250938/",
-    "summary": "The rapid emergence of generative artificial intelligence (genAI) technologies has created new opportunities and challenges in undergraduate nursing education. As educators seek to integrate these tools into curricula, understanding their current applications and implications is essential...."
+    "title": "Building a predictive model for nursing students' use of artificial intelligence: advancing technology acceptance and application in nursing education.",
+    "source": "BMC nursing",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42265702/",
+    "summary": "With the rapid development of artificial intelligence (AI) technology, its application across various industries, particularly in healthcare and nursing, has been expanding. However, the factors influencing nursing students' acceptance and use of AI tools have not been fully explored. Understanding ..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
-    "source": "Scientific reports",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
-    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
-    "source": "The clinical teacher",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
-    "summary": ""
-  },
-  {
-    "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
-    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—..."
-  },
-  {
-    "id": 6,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
-    "source": "SAGE open nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
-    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
-  },
-  {
-    "id": 7,
     "category": "paper",
     "tag": "학술논문",
     "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
@@ -70,7 +30,7 @@
     "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
   },
   {
-    "id": 8,
+    "id": 4,
     "category": "paper",
     "tag": "학술논문",
     "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
@@ -80,12 +40,12 @@
     "summary": ""
   },
   {
-    "id": 9,
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "url": "",
     "summary": ""
   }
