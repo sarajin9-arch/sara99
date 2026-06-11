@@ -21,31 +21,11 @@
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
-    "summary": ""
-  },
-  {
-    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "url": "",
     "summary": ""
   }
