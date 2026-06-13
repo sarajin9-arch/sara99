@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Teaching with intelligence; AI-enhanced pedagogies in nursing education A scoping review.",
+    "source": "Nurse education in practice",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284856/",
+    "summary": "To map current evidence on AI integration in nursing education, identifying pedagogical applications, learning outcomes, future research directions...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Evaluation of artificial intelligence generated immersive virtual reality simulation on skill mastery.",
     "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
     "date": "2026-03",
@@ -10,22 +20,12 @@
     "summary": "Nursing education faces challenges in providing nursing students with sufficient clinical site opportunities due to healthcare staffing shortages and faculty resource constraints. The decline in clinical opportunities has a negative impact on nursing students' growth in critical thinking, clinical d..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Preparing the nursing workforce for the health AI era: Insights from the Macy Foundation Conference on AI in Medical Education.",
-    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276635/",
-    "summary": "The rapid integration of artificial intelligence (AI) into healthcare is reshaping the clinical practice environment, demanding timely preparation of the nursing workforce. As trusted frontline health professionals often tasked with providing education, nurses are uniquely positioned to ensure the e..."
-  },
-  {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "url": "",
     "summary": ""
   }
