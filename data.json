@@ -18,5 +18,55 @@
     "date": "2026-03",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276655/",
     "summary": "Nursing education faces challenges in providing nursing students with sufficient clinical site opportunities due to healthcare staffing shortages and faculty resource constraints. The decline in clinical opportunities has a negative impact on nursing students' growth in critical thinking, clinical d..."
+  },
+  {
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
+    "source": "Scientific reports",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
+    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
+    "source": "The clinical teacher",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
+    "summary": ""
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
+    "source": "Journal of dental hygiene : JDH",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
+    "summary": ""
+  },
+  {
+    "id": 7,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-06-15",
+    "url": "",
+    "summary": ""
   }
 ]
