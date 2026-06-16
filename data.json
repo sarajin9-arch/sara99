@@ -3,69 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Teaching with intelligence; AI-enhanced pedagogies in nursing education A scoping review.",
-    "source": "Nurse education in practice",
-    "date": "2026-May",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42284856/",
-    "summary": "To map current evidence on AI integration in nursing education, identifying pedagogical applications, learning outcomes, future research directions...."
+    "title": "Producing Mobility, Withholding Authority: Epistemic Drain and Nursing Sovereignty in Nepal.",
+    "source": "Nursing philosophy : an international journal for healthcare professionals",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42302146/",
+    "summary": "Global discussions of nursing in low- and middle-income countries (LMICs) are dominated by the language of shortage, staffing, retention, and migration. Although useful, this technocratic vocabulary obscures a deeper philosophical crisis: nurses may be numerically produced yet institutionally denied..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Evaluation of artificial intelligence generated immersive virtual reality simulation on skill mastery.",
-    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276655/",
-    "summary": "Nursing education faces challenges in providing nursing students with sufficient clinical site opportunities due to healthcare staffing shortages and faculty resource constraints. The decline in clinical opportunities has a negative impact on nursing students' growth in critical thinking, clinical d..."
+    "title": "Advancing nursing education through social and emotional learning: A systematic review guided by the Collaborative for Academic, Social, and Emotional Learning framework.",
+    "source": "Nurse education today",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42296902/",
+    "summary": "With Generation Z entering the nursing workforce in growing numbers, strengthening social and emotional learning is critical for academic success, professional adaptation, and safe practice. However, the existing evidence remains fragmented because of varied interventions and inconsistent approaches..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
-    "source": "Scientific reports",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
-    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "When AI Joins the Classroom: Lessons From UK Medical Students.",
-    "source": "The clinical teacher",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41964356/",
-    "summary": ""
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   },
   {
     "id": 5,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 6,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
-    "summary": ""
-  },
-  {
-    "id": 7,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "url": "",
     "summary": ""
   }
