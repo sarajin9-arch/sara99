@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Nursing Students' Ethical Perspectives on Artificial Intelligence: Implications for Nursing Education.",
+    "source": "The Journal of nursing education",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42329688/",
+    "summary": "As artificial intelligence (AI) increasingly transforms health care delivery, nursing education must prepare students to engage with this technology in ethically responsible and human-centered ways. This study explored nursing students' ethical perspectives on AI and their concerns regarding its fut..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Assessing nursing students' attitudes toward diabetic foot care across cognitive, affective, and behavioral domains: a cross-sectional study.",
     "source": "BMC nursing",
     "date": "2026-Jun",
@@ -10,42 +20,12 @@
     "summary": "Diabetic foot is a serious complication of diabetes that significantly impairs patients' quality of life. Nursing education plays an important role in shaping students' knowledge, skills, and attitudes related to diabetic foot care. However, there is limited research assessing their cognitive, affec..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Academic leaders' modest leadership, nursing faculty's emotional security and their adoption of artificial intelligence in academic nursing: A cross-sectional study.",
-    "source": "Nurse education today",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308608/",
-    "summary": "Modest leadership (ML), emotional security (ES), and adoption of artificial intelligence (AI) are emerging priorities in academic nursing. Although ML is theorized to enhance ES, and ES is believed to support innovation-related behaviors, limited empirical work has examined how these factors relate ..."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Exploring Knowledge, Attitudes, and Practices of Dental Hygiene Students Regarding Artificial Intelligence.",
-    "source": "Journal of dental hygiene : JDH",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41905749/",
-    "summary": ""
-  },
-  {
-    "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "url": "",
     "summary": ""
   }
