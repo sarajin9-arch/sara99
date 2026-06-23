@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Nursing Students' Ethical Perspectives on Artificial Intelligence: Implications for Nursing Education.",
-    "source": "The Journal of nursing education",
+    "title": "Cross-cultural adaptation and psychometric evaluation of the Shinners Artificial Intelligence Perception Scale (SAIP): evidence from Turkish nursing students.",
+    "source": "BMC nursing",
     "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42329688/",
-    "summary": "As artificial intelligence (AI) increasingly transforms health care delivery, nursing education must prepare students to engage with this technology in ethically responsible and human-centered ways. This study explored nursing students' ethical perspectives on AI and their concerns regarding its fut..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332704/",
+    "summary": "Integrating artificial intelligence (AI) technologies into nursing practice is expanding rapidly, yet validated instruments to assess nursing students' perceptions of AI remain scarce in non-English-speaking contexts. The Shinners Artificial Intelligence Perception (SAIP) Scale was developed to meas..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Assessing nursing students' attitudes toward diabetic foot care across cognitive, affective, and behavioral domains: a cross-sectional study.",
-    "source": "BMC nursing",
+    "title": "Navigating the Artificial Intelligence Integration Challenge: One Nursing School's Journey From Uncertainty to Systematic Action.",
+    "source": "Nurse educator",
     "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42316180/",
-    "summary": "Diabetic foot is a serious complication of diabetes that significantly impairs patients' quality of life. Nursing education plays an important role in shaping students' knowledge, skills, and attitudes related to diabetic foot care. However, there is limited research assessing their cognitive, affec..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42330070/",
+    "summary": "With the rapid advancement of artificial intelligence (AI) across education and health care, nursing programs are increasingly leveraging AI to strengthen faculty and students' professional knowledge, skills, and preparedness for future practice...."
   },
   {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "url": "",
     "summary": ""
   }
