@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Exploring a Metacognitive Scaffolding-Based GenAI-Assisted Peer Feedback Provision Approach to Enhance Feedback Engagement Among Nursing Students.",
+    "source": "Nursing reports (Pavia, Italy)",
+    "date": "2026-May",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42346990/",
+    "summary": ""
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "The Associations of Emotional Intelligence, AI Self-Efficacy, and AI Literacy Among Nursing Undergraduates Under the NUR.S.E.S. Framework: Network Analysis.",
     "source": "JMIR nursing",
     "date": "2026-Jun",
@@ -10,42 +20,12 @@
     "summary": "With the rapid development of generative artificial intelligence (AI) and its deep integration into nursing education, nursing students' AI literacy (AS) has become a critical competency for their professional development. However, the patterns of associations among emotional intelligence (EI), AI s..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Knowledge, Benefits, and Challenges of ChatGPT Use in Education Among Nursing Students: A Descriptive, Cross-Sectional Study.",
-    "source": "Creative nursing",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42337907/",
-    "summary": "BackgroundWith the growing integration of artificial intelligence (AI) tools like ChatGPT in education, it is essential to understand how nursing students perceive and utilize such technologies. Their knowledge and attitudes can influence how effectively these tools are used in academic and clinical..."
-  },
-  {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
-    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
-    "source": "SAGE open nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
-    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
-  },
-  {
-    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "url": "",
     "summary": ""
   }
