@@ -21,22 +21,32 @@
   },
   {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
-    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
   },
   {
     "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
-    "source": "SAGE open nursing",
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Analysis of AI-Generated Radiography Responses Using a Closed-System LLM.",
+    "source": "Radiologic technology",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
-    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42024724/",
+    "summary": "To evaluate the accuracy and educational utility of Microsoft Copilot's (GPT-4, July 2025, closed-system version) responses to radiography questions through expert assessment, with a focus on strengths, limitations, and implications for radiologic science education...."
+  },
+  {
+    "id": 5,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-06-28",
+    "url": "",
+    "summary": ""
   }
 ]
