@@ -21,31 +21,11 @@
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Analysis of AI-Generated Radiography Responses Using a Closed-System LLM.",
-    "source": "Radiologic technology",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42024724/",
-    "summary": "To evaluate the accuracy and educational utility of Microsoft Copilot's (GPT-4, July 2025, closed-system version) responses to radiography questions through expert assessment, with a focus on strengths, limitations, and implications for radiologic science education...."
-  },
-  {
-    "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "url": "",
     "summary": ""
   }
