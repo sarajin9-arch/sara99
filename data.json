@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Exploring nursing students' perspectives on disability through campus accessibility evaluation: a phenomenological study.",
-    "source": "BMC nursing",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42381022/",
-    "summary": "Inclusive nursing education plays a crucial role in preparing future healthcare professionals to recognise and respond to the needs of persons with disabilities. Evaluating real-life environments, such as university campuses, may help students develop a deeper understanding of disability and reflect..."
+    "title": "The 7 Rights of AI: A Framework for Safe and Ethical AI Use in Nursing Education.",
+    "source": "Nurse educator",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42393852/",
+    "summary": ""
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Changes in retention intention across the student-to-nurse transition: A prospective longitudinal cohort study.",
-    "source": "Nurse education today",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42378928/",
-    "summary": "Despite integrated theoretical and clinical education, many nursing students experience transition shock upon entering the workforce, contributing to high turnover and worsening nurse shortages. Understanding retention intention and its associated factors is essential for improving workforce stabili..."
+    "title": "Knowledge, attitudes, and practices related to the use of artificial intelligence in nursing education and practice: a systematic review and meta-analysis.",
+    "source": "BMC nursing",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42393716/",
+    "summary": "The integration of artificial intelligence (AI) into nursing education and practice has demonstrated significant potential to enhance efficiency, reduce errors, and optimize healthcare delivery. However, the successful implementation of AI requires careful consideration of the knowledge, attitudes, ..."
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
+    "source": "Research square",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
+    "summary": "Purpose Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, c..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
+    "source": "Family medicine",
+    "date": "2026-Feb",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
+    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "url": "",
     "summary": ""
   }
