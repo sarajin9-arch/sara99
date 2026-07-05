@@ -3,49 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Transparency, trust, and professional accountability: The case for generative AI disclosure in nursing education.",
-    "source": "Nurse education in practice",
+    "title": "The Resource Gadgets Pedagogical Framework: A conceptual model for lecturer-guided mobile learning in resource-constrained nursing education.",
+    "source": "Nurse education today",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42399168/",
-    "summary": ""
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401106/",
+    "summary": "Mobile learning (m-learning) is education delivered anytime, anywhere via pocket-sized, internet-connected devices. M-learning enables nursing students to access clinical guidelines, multimedia resources, and evidence-based knowledge. However, in many low- and middle-income countries (LMICs), instit..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Bachelor's thesis supervision in undergraduate nursing education in the European Higher Education Area: A scoping review of organizational structures, supervisory practices, evidence on effectiveness, and resource use.",
-    "source": "Nurse education in practice",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42398264/",
-    "summary": "To map and describe the literature on bachelor's thesis supervision in undergraduate nursing within the European Higher Education Area, focusing on supervision structures, methods, content, effectiveness and efficiency...."
+    "title": "Generative artificial intelligence literacy for learning and individual creativity: A cross-sectional study among nursing students.",
+    "source": "Nurse education today",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401104/",
+    "summary": "Generative artificial intelligence (GenAI) tools are increasingly integrated into higher education, reshaping learning, cognitive engagement, and creative problem-solving. However, empirical evidence on the relationship between GenAI literacy and individual creativity in nursing education remains li..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
-    "source": "Research square",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
-    "summary": "Purpose Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, c..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Validation of the Use of a Large Language Model for Detecting Sentiment in Student Course Evaluation.",
-    "source": "Family medicine",
-    "date": "2026-Feb",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42102716/",
-    "summary": "The use of large language models and natural language processing (NLP) in medical education has expanded rapidly in recent years. Because of the documented risks of bias and errors, these artificial intelligence (AI) tools must be validated before being used for research or education. Traditional an..."
-  },
-  {
-    "id": 5,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "url": "",
     "summary": ""
   }
