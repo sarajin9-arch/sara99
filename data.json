@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Nursing Simulation 3.0: Contemporary issues in transitioning to extended reality.",
+    "source": "Nurse education today",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42407431/",
+    "summary": "Simulation has long been used in nursing education to support the development of clinical skills and decision-making. Early approaches relied on static anatomical models such as the Mrs. Chase mannequin, while later systems including Resusci®-Anne and SimMan® introduced computerized physiological re..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "The Resource Gadgets Pedagogical Framework: A conceptual model for lecturer-guided mobile learning in resource-constrained nursing education.",
     "source": "Nurse education today",
     "date": "2026-Jul",
@@ -10,22 +20,12 @@
     "summary": "Mobile learning (m-learning) is education delivered anytime, anywhere via pocket-sized, internet-connected devices. M-learning enables nursing students to access clinical guidelines, multimedia resources, and evidence-based knowledge. However, in many low- and middle-income countries (LMICs), instit..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Generative artificial intelligence literacy for learning and individual creativity: A cross-sectional study among nursing students.",
-    "source": "Nurse education today",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42401104/",
-    "summary": "Generative artificial intelligence (GenAI) tools are increasingly integrated into higher education, reshaping learning, cognitive engagement, and creative problem-solving. However, empirical evidence on the relationship between GenAI literacy and individual creativity in nursing education remains li..."
-  },
-  {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "url": "",
     "summary": ""
   }
