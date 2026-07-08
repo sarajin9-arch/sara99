@@ -21,11 +21,31 @@
   },
   {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Academic overload, ChatGPT use, and resilience: Parallel mediating pathways to academic stress among nursing students.",
+    "source": "Nurse education today",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401105/",
+    "summary": "Academic overload is a major contributor to student stress, but its underlying mechanisms remain insufficiently understood, particularly in the context of emerging AI tools such as ChatGPT...."
+  },
+  {
+    "id": 4,
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Generative artificial intelligence literacy for learning and individual creativity: A cross-sectional study among nursing students.",
+    "source": "Nurse education today",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401104/",
+    "summary": "Generative artificial intelligence (GenAI) tools are increasingly integrated into higher education, reshaping learning, cognitive engagement, and creative problem-solving. However, empirical evidence on the relationship between GenAI literacy and individual creativity in nursing education remains li..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "url": "",
     "summary": ""
   }
