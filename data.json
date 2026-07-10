@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Nursing Simulation 3.0: Contemporary issues in transitioning to extended reality.",
-    "source": "Nurse education today",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42407431/",
-    "summary": "Simulation has long been used in nursing education to support the development of clinical skills and decision-making. Early approaches relied on static anatomical models such as the Mrs. Chase mannequin, while later systems including Resusci®-Anne and SimMan® introduced computerized physiological re..."
+    "title": "Effects of a generative AI-assisted ADPIE Framework on critical thinking, learning self-efficacy, and clinical reasoning in nursing education: a quasi-experimental study.",
+    "source": "BMC nursing",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42426758/",
+    "summary": "The nursing process is a systematic, patient-centered framework essential for clinical reasoning and decision-making in nursing education. It is commonly operationalized through the ADPIE (Assessment, Diagnosis, Planning, Implementation, and Evaluation) model, which guides nurses in identifying pati..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The Resource Gadgets Pedagogical Framework: A conceptual model for lecturer-guided mobile learning in resource-constrained nursing education.",
+    "title": "Comparative effectiveness of game-based learning modalities in nursing and medical education: a systematic review and Bayesian network meta-analysis.",
     "source": "Nurse education today",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42401106/",
-    "summary": "Mobile learning (m-learning) is education delivered anytime, anywhere via pocket-sized, internet-connected devices. M-learning enables nursing students to access clinical guidelines, multimedia resources, and evidence-based knowledge. However, in many low- and middle-income countries (LMICs), instit..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42424836/",
+    "summary": "Game-based learning (GBL) is increasingly used in healthcare education, but educators must choose among diverse modalities (e.g., quiz platforms, apps, serious games and metaverse environments). Comparative evidence on which modalities perform best across learning domains (knowledge, attitudes, and ..."
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
+    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
+    "source": "Research square",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
+    "summary": "Purpose Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, c..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "url": "",
     "summary": ""
   }
