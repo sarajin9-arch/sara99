@@ -3,49 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Effects of a generative AI-assisted ADPIE Framework on critical thinking, learning self-efficacy, and clinical reasoning in nursing education: a quasi-experimental study.",
-    "source": "BMC nursing",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42426758/",
-    "summary": "The nursing process is a systematic, patient-centered framework essential for clinical reasoning and decision-making in nursing education. It is commonly operationalized through the ADPIE (Assessment, Diagnosis, Planning, Implementation, and Evaluation) model, which guides nurses in identifying pati..."
+    "title": "Artificial intelligence literacy in nursing: a concept analysis.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42433428/",
+    "summary": "As artificial intelligence (AI) technologies are increasingly integrated into nursing education and clinical practice, nurses are required to interact with AI systems in complex decision-making contexts. However, the concept of artificial intelligence literacy remains insufficiently defined in nursi..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Comparative effectiveness of game-based learning modalities in nursing and medical education: a systematic review and Bayesian network meta-analysis.",
-    "source": "Nurse education today",
+    "title": "Enhancing perceived clinical competence of nursing students in the AI era: the role of AI acceptance and self-directed learning.",
+    "source": "BMC medical education",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42424836/",
-    "summary": "Game-based learning (GBL) is increasingly used in healthcare education, but educators must choose among diverse modalities (e.g., quiz platforms, apps, serious games and metaverse environments). Comparative evidence on which modalities perform best across learning domains (knowledge, attitudes, and ..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432716/",
+    "summary": "In the context of AI-driven transformation in healthcare education, preparing nursing students to effectively engage with generative artificial intelligence tools has become increasingly important. While self-directed learning (SDL) has been consistently associated with clinical competence, the role..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
-    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
-    "source": "Research square",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
-    "summary": "Purpose Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, c..."
-  },
-  {
-    "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "url": "",
     "summary": ""
   }
