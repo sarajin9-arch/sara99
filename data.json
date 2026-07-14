@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "A Five-Step Faculty Development Checklist for Artificial Intelligence in Nursing Education.",
+    "source": "The Journal of nursing education",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447451/",
+    "summary": "Artificial intelligence (AI) is increasingly available to faculty and students, yet adoption remains uneven. Faculty report uncertainty about capabilities, limitations, and ethical boundaries, and lack time for integration, while institutions grapple with policy, privacy, and equity concerns. The pu..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Artificial intelligence literacy in nursing: a concept analysis.",
     "source": "Frontiers in public health",
     "date": "2026-03",
@@ -10,22 +20,12 @@
     "summary": "As artificial intelligence (AI) technologies are increasingly integrated into nursing education and clinical practice, nurses are required to interact with AI systems in complex decision-making contexts. However, the concept of artificial intelligence literacy remains insufficiently defined in nursi..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Enhancing perceived clinical competence of nursing students in the AI era: the role of AI acceptance and self-directed learning.",
-    "source": "BMC medical education",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42432716/",
-    "summary": "In the context of AI-driven transformation in healthcare education, preparing nursing students to effectively engage with generative artificial intelligence tools has become increasingly important. While self-directed learning (SDL) has been consistently associated with clinical competence, the role..."
-  },
-  {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "url": "",
     "summary": ""
   }
