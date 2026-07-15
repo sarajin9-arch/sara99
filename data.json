@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Artificial intelligence literacy, attitudes, and behaviors among nursing educators: A latent profile and mediation analysis.",
+    "source": "Nurse education today",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447738/",
+    "summary": "Nursing educators play a pivotal role in the effective integration of artificial intelligence (AI) into nursing education. Investigating the heterogeneity of their AI literacy and its impact on attitude and behavior is a prerequisite for developing targeted interventions...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "A Five-Step Faculty Development Checklist for Artificial Intelligence in Nursing Education.",
     "source": "The Journal of nursing education",
     "date": "2026-Jul",
@@ -10,22 +20,32 @@
     "summary": "Artificial intelligence (AI) is increasingly available to faculty and students, yet adoption remains uneven. Faculty report uncertainty about capabilities, limitations, and ethical boundaries, and lack time for integration, while institutions grapple with policy, privacy, and equity concerns. The pu..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Artificial intelligence literacy in nursing: a concept analysis.",
-    "source": "Frontiers in public health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42433428/",
-    "summary": "As artificial intelligence (AI) technologies are increasingly integrated into nursing education and clinical practice, nurses are required to interact with AI systems in complex decision-making contexts. However, the concept of artificial intelligence literacy remains insufficiently defined in nursi..."
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
-    "id": 3,
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "url": "",
     "summary": ""
   }
