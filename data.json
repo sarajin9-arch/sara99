@@ -3,41 +3,41 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial intelligence literacy, attitudes, and behaviors among nursing educators: A latent profile and mediation analysis.",
-    "source": "Nurse education today",
+    "title": "Effectiveness of a diabetes educational intervention on the knowledge level of registered nurses working in a public tertiary care hospital in Karachi: a quasi-experimental study.",
+    "source": "BMC nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447738/",
-    "summary": "Nursing educators play a pivotal role in the effective integration of artificial intelligence (AI) into nursing education. Investigating the heterogeneity of their AI literacy and its impact on attitude and behavior is a prerequisite for developing targeted interventions...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42458471/",
+    "summary": "Diabetes Mellitus (DM) is a chronic metabolic disorder requiring effective self-management to prevent complications such as stroke, neuropathy, and nephropathy. Nurses play a pivotal role in diabetes care and education; however, limited evidence exists regarding the impact of structured educational ..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "A Five-Step Faculty Development Checklist for Artificial Intelligence in Nursing Education.",
-    "source": "The Journal of nursing education",
+    "title": "Knowledge, attitudes, practices and ethics related to artificial intelligence among nursing students: a national cross-sectional survey in China.",
+    "source": "BMC nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42447451/",
-    "summary": "Artificial intelligence (AI) is increasingly available to faculty and students, yet adoption remains uneven. Faculty report uncertainty about capabilities, limitations, and ethical boundaries, and lack time for integration, while institutions grapple with policy, privacy, and equity concerns. The pu..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42458459/",
+    "summary": "Artificial intelligence (AI) is rapidly transforming healthcare. Current and future healthcare workforce, including nursing students, require sufficient understanding of responsible AI use. However, data about knowledge, attitudes, practices and ethics regarding AI use in this population is scarce. ..."
   },
   {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
-    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
   },
   {
     "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
-    "source": "SAGE open nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
-    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
+    "source": "Scientific reports",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
+    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "url": "",
     "summary": ""
   }
