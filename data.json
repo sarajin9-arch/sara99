@@ -3,49 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Effectiveness of a diabetes educational intervention on the knowledge level of registered nurses working in a public tertiary care hospital in Karachi: a quasi-experimental study.",
-    "source": "BMC nursing",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42458471/",
-    "summary": "Diabetes Mellitus (DM) is a chronic metabolic disorder requiring effective self-management to prevent complications such as stroke, neuropathy, and nephropathy. Nurses play a pivotal role in diabetes care and education; however, limited evidence exists regarding the impact of structured educational ..."
+    "title": "Clinical nursing interns' perceptions of artificial intelligence-assisted tools in human-AI collaboration: a qualitative persona-based study.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42465649/",
+    "summary": "This study aims to explore the cognitive characteristics and group differences of clinical nursing interns regarding the use of artificial intelligence-assisted tools in a human-AI collaboration context through a persona-based approach, providing references for optimizing nursing internship teaching..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Knowledge, attitudes, practices and ethics related to artificial intelligence among nursing students: a national cross-sectional survey in China.",
+    "title": "Development of the nursing artificial intelligence readiness scale for nursing students: a validity and reliability study.",
     "source": "BMC nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42458459/",
-    "summary": "Artificial intelligence (AI) is rapidly transforming healthcare. Current and future healthcare workforce, including nursing students, require sufficient understanding of responsible AI use. However, data about knowledge, attitudes, practices and ethics regarding AI use in this population is scarce. ..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464259/",
+    "summary": "The rapid integration of artificial intelligence (AI) into healthcare has amplified the need for nurses who can engage with AI-supported systems safely and effectively. Assessing nursing students' AI readiness through a psychometrically sound instrument is essential for guiding curriculum design and..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
-    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
-    "source": "Scientific reports",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
-    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
-  },
-  {
-    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "url": "",
     "summary": ""
   }
