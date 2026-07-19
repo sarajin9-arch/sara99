@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Technology anxiety and artificial intelligence readiness in nursing students: a cross-sectional study.",
+    "source": "BMC nursing",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42471688/",
+    "summary": "As artificial intelligence (AI) becomes more common in healthcare, nursing students need to be both mentally and emotionally ready to use it. But feeling anxious about technology might hold them back. This study looked at whether there is a link between AI Readiness and technology anxiety among nurs..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Hantavirus preparedness among undergraduate nursing students in the United Arab Emirates: a cross-sectional study of knowledge, risk perception and preventive practice.",
     "source": "BMC nursing",
     "date": "2026-Jul",
@@ -10,13 +20,23 @@
     "summary": "Hantavirus infection is uncommon in many settings but can cause severe pulmonary or renal disease. Nursing students require disease-specific preparedness for exposure-history taking, safe prevention counselling and infection prevention during community and clinical learning. This study examined unde..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Clinical nursing interns' perceptions of artificial intelligence-assisted tools in human-AI collaboration: a qualitative persona-based study.",
-    "source": "Frontiers in public health",
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42465649/",
-    "summary": "This study aims to explore the cognitive characteristics and group differences of clinical nursing interns regarding the use of artificial intelligence-assisted tools in a human-AI collaboration context through a persona-based approach, providing references for optimizing nursing internship teaching..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   }
 ]
