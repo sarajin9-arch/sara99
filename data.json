@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Technology anxiety and artificial intelligence readiness in nursing students: a cross-sectional study.",
-    "source": "BMC nursing",
+    "title": "AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review.",
+    "source": "Journal of medical Internet research",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42471688/",
-    "summary": "As artificial intelligence (AI) becomes more common in healthcare, nursing students need to be both mentally and emotionally ready to use it. But feeling anxious about technology might hold them back. This study looked at whether there is a link between AI Readiness and technology anxiety among nurs..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479870/",
+    "summary": "Traditional simulation-based nursing education is often constrained by high costs, resource intensity, and limited scalability. AI-powered simulations offer dynamic, scalable, and personalized alternatives. However, the empirical evidence regarding their pedagogical effectiveness and learner accepta..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Hantavirus preparedness among undergraduate nursing students in the United Arab Emirates: a cross-sectional study of knowledge, risk perception and preventive practice.",
+    "title": "The mediating effect of self-efficacy on the relationship between digital literacy and artificial intelligence anxiety in nursing students.",
     "source": "BMC nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42469853/",
-    "summary": "Hantavirus infection is uncommon in many settings but can cause severe pulmonary or renal disease. Nursing students require disease-specific preparedness for exposure-history taking, safe prevention counselling and infection prevention during community and clinical learning. This study examined unde..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477725/",
+    "summary": "The integration of digital technologies and artificial intelligence (AI) into healthcare has transformed nursing education, while also raising concerns about AI-related anxiety among students. This study aimed to examine the mediating role of self-efficacy in the relationship between digital literac..."
   },
   {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
+    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
+    "source": "Research square",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
+    "summary": "Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, character..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "url": "",
     "summary": ""
   }
