@@ -3,49 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review.",
-    "source": "Journal of medical Internet research",
+    "title": "Integrated cardiopulmonary rehabilitation nursing workforce development: an integrative literature review.",
+    "source": "BMC nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42479870/",
-    "summary": "Traditional simulation-based nursing education is often constrained by high costs, resource intensity, and limited scalability. AI-powered simulations offer dynamic, scalable, and personalized alternatives. However, the empirical evidence regarding their pedagogical effectiveness and learner accepta..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42482231/",
+    "summary": "The burden of cardiopulmonary disease is increasing, and health systems require a nursing workforce that is prepared to deliver integrated cardiopulmonary rehabilitation across acute, subacute, and rehabilitative settings. However, the educational pathways, competency expectations, and implementatio..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The mediating effect of self-efficacy on the relationship between digital literacy and artificial intelligence anxiety in nursing students.",
-    "source": "BMC nursing",
+    "title": "AI-assisted concept mapping enhances orthopaedic nursing students' critical thinking: A quasi-experimental study.",
+    "source": "International journal of orthopaedic and trauma nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42477725/",
-    "summary": "The integration of digital technologies and artificial intelligence (AI) into healthcare has transformed nursing education, while also raising concerns about AI-related anxiety among students. This study aimed to examine the mediating role of self-efficacy in the relationship between digital literac..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42480331/",
+    "summary": "Critical thinking (CT) is essential in orthopaedic nursing practice, where nurses must accurately assess fractures, identify complications, plan mobility strategies, and support postoperative recovery. Concept mapping (CMAP) can facilitate structured clinical reasoning, while artificial intelligence..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
-    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
-    "source": "Research square",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
-    "summary": "Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, character..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   },
   {
     "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "url": "",
     "summary": ""
   }
