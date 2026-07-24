@@ -3,29 +3,89 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The relationship between AI dependency and critical thinking disposition in nursing students: The mediating role of metacognitive ability and the moderating role of academic self-efficacy.",
-    "source": "Nurse education today",
+    "title": "Performance of Large Language Models for Oncology Nursing Decision Support: Cross-Sectional Study.",
+    "source": "Journal of medical Internet research",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42485878/",
-    "summary": "Artificial intelligence tools are increasingly integrated into nursing education. They bring great potential to improve learning efficiency and access to information. However, whether over-reliance on artificial intelligence affects the development of critical thinking remains to be verified. Critic..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497362/",
+    "summary": "Large language models (LLMs) are increasingly used in health care, with emerging applications in clinical decision support and nursing education. However, evidence on their performance in nursing contexts, particularly in oncology nursing, remains limited. Given the complexity and high-risk nature o..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Integrated cardiopulmonary rehabilitation nursing workforce development: an integrative literature review.",
-    "source": "BMC nursing",
+    "title": "AI literacy drives nursing students' readiness for AI-enabled healthcare.",
+    "source": "Evidence-based nursing",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42482231/",
-    "summary": "The burden of cardiopulmonary disease is increasing, and health systems require a nursing workforce that is prepared to deliver integrated cardiopulmonary rehabilitation across acute, subacute, and rehabilitative settings. However, the educational pathways, competency expectations, and implementatio..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42493230/",
+    "summary": ""
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Performance of large language models on the Turkish Pharmacy Specialty Examination: a comparative analysis of accuracy, confidence, and readability.",
+    "source": "Scientific reports",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251118/",
+    "summary": "Large language models (LLMs) have demonstrated strong performance in answering knowledge-based questions in healthcare education. Specialty examinations offer a standardized and objective framework to assess these capabilities. However, to date, no study has evaluated LLM performance on the Turkish ..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 6,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 7,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
+    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
+  },
+  {
+    "id": 8,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
+    "source": "Research square",
+    "date": "2026-Jun",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
+    "summary": "Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, character..."
+  },
+  {
+    "id": 9,
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "url": "",
     "summary": ""
   }
