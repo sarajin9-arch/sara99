@@ -3,30 +3,40 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Educators' Perspectives on Generative AI Use in Nursing Education: Friend or Foe?",
-    "source": "Journal of clinical nursing",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42530160/",
-    "summary": "This study explores nursing educators' perspectives on the challenges and benefits of integrating generative artificial intelligence (AI) into nursing education. There is little empirical evidence on how educators perceive these technologies and how such perceptions influence their integration into ..."
+    "title": "A Meta-synthesis of nursing students' experiences with generative artificial intelligence-assisted learning.",
+    "source": "Frontiers in medicine",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535158/",
+    "summary": "To systematically evaluate the real experiences of nursing students participating in generative artificial intelligence-assisted learning...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Turkish Validity and Reliability Study of the Fear of Artificial Intelligence Scale Among Nursing Students.",
-    "source": "Journal of nursing measurement",
+    "title": "Interprofessional teams see differently: a cross-over study using dual mobile eye-tracking.",
+    "source": "Advances in health sciences education : theory and practice",
     "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42526911/",
-    "summary": ""
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533242/",
+    "summary": "It is widely assumed that interprofessional teams (IP) attend to broader range of clinical information than monoprofessional teams (MP), because each profession is trained to prioritize different aspects of patient care. Yet no study has empirically tested this assumption. We conducted a randomized ..."
   },
   {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-07-30",
-    "url": "",
-    "summary": ""
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   }
 ]
