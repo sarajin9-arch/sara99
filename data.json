@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Use of ChatGPT among Student Nurses in Baguio City, Philippines: A Cross-sectional Study.",
+    "source": "Acta medica Philippina",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42540641/",
+    "summary": "ChatGPT, an advanced artificial intelligence (AI) platform developed by OpenAI, is increasingly used in nursing education and practice. However, limited studies have explored its use among student nurses and how factors such as sex and year level affect its adoption. Addressing this gap is essential..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Artificial intelligence in nursing education: A contemporary issue for ethical, safe, and human-centered curriculum reform.",
     "source": "Nurse education today",
     "date": "2026-Jul",
@@ -10,33 +20,23 @@
     "summary": "There is a growing acceptance of using artificial intelligence in health care, education, and clinical practice. Artificial intelligence will be used in learning personalization, clinical case design, simulations, academic writing, and feedback to the learner. However, there is a gap in the readines..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "A Meta-synthesis of nursing students' experiences with generative artificial intelligence-assisted learning.",
-    "source": "Frontiers in medicine",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42535158/",
-    "summary": "To systematically evaluate the real experiences of nursing students participating in generative artificial intelligence-assisted learning...."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Thematic Evolution in Medical Education Research (2000-2024): A Large-Scale BERTopic Analysis.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42404744/",
-    "summary": "Few large-scale, semantically informed mappings of medical education research exist: traditional methods such as keyword co-occurrence and Latent Dirichlet Allocation cannot capture the contextual meaning of scientific abstracts. This study aimed to identify major research topics in medical educatio..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Artificial Intelligence Integration in U.S. Healthcare Professional Degree Programs: A Rapid Scoping Review.",
-    "source": "Research square",
-    "date": "2026-Jun",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42370260/",
-    "summary": "Artificial intelligence (AI) capabilities and use in health care have expanded rapidly, creating an urgent need to adapt health professions curricula. This study analyzed peer-reviewed evidence (2019-2026) on AI integration in health professional degree education relevant to U.S. programs, character..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
   }
 ]
