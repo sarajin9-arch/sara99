@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Bridging Implementation Gaps: The Critical Role of Institutional Ecosystems in AI Integration for Nursing Education.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42553437/",
+    "summary": ""
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Effects of AI on Nursing Education: Protocol for a Systematic Review and Meta-Analysis.",
     "source": "JMIR research protocols",
     "date": "2026-Jul",
@@ -10,22 +20,12 @@
     "summary": "AI demonstrates considerable potential in nursing education. However, its specific effects on knowledge acquisition, practical skills, satisfaction, competence, and confidence remain inadequately characterized...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Artificial intelligence attitudes and ethical sensitivity in patient care among nursing students: A cross-sectional study.",
-    "source": "Applied nursing research : ANR",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42547147/",
-    "summary": "The growing integration of artificial intelligence (AI) into healthcare is transforming nursing practice and clinical decision-making. However, evidence regarding the relationship between nursing students' attitudes toward AI and ethical sensitivity remains limited...."
-  },
-  {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "url": "",
     "summary": ""
   }
