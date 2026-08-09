@@ -21,6 +21,26 @@
   },
   {
     "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
     "category": "paper",
     "tag": "학술논문",
     "title": "Prompt Framing and Evidence Requirement for AI-Generated Educational Responses in Dental Education: Experimental Study.",
@@ -30,7 +50,7 @@
     "summary": "Large language models are increasingly used in health professions education; however, the role of prompt design in shaping their outputs remains poorly understood in clinical training contexts. In dentistry, where information presentation, perceived credibility, and procedural reasoning are importan..."
   },
   {
-    "id": 4,
+    "id": 6,
     "category": "paper",
     "tag": "학술논문",
     "title": "A primer on artificial intelligence for palliative care educators.",
@@ -40,12 +60,12 @@
     "summary": "Artificial intelligence (AI) is rapidly being adopted in education in the health care professions, including in palliative care. Yet existing AI primers for health professions education (HPE) are not specific to palliative care (PC) and overlook the relational, prognostic, and cultural sensitivities..."
   },
   {
-    "id": 5,
+    "id": 7,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "url": "",
     "summary": ""
   }
