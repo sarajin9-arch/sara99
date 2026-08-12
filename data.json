@@ -3,49 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "How Changes in New Graduate Nurses' Transition Experience Mediate the Link Between Readiness for Practice and Job Embeddedness.",
-    "source": "Journal of advanced nursing",
+    "title": "Artificial intelligence and digital health competencies in undergraduate nursing education: A scoping review.",
+    "source": "Nurse education today",
     "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42576405/",
-    "summary": "This study aimed to examine how changes in new graduate nurses' transition experience from the first to the second year of clinical practice mediate the relationship between readiness for practice and job embeddedness, from the perspective of the conservation of resources theory...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42580160/",
+    "summary": "The rapid digital transformation of healthcare is reshaping the capabilities required of the nursing workforce. Technologies such as artificial intelligence (AI), clinical decision-support systems, and digital health technologies are increasingly embedded within healthcare delivery. Consequently, pr..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "ChatGPT and Large Language Models in Contemporary Nursing.",
-    "source": "Journal of clinical nursing",
+    "title": "Digital professionalism and professional identity formation in undergraduate nursing students: A scoping review.",
+    "source": "Nurse education today",
     "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42568338/",
-    "summary": "This narrative review synthesizes published evidence on the applications, benefits, limitations and governance considerations of ChatGPT and large language models (LLMs) in nursing, across three domains: education, clinical practice and workflow management...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42580159/",
+    "summary": "Digital professionalism has become increasingly relevant to nursing education as students engage with social media, generative artificial intelligence, and online platforms. However, the relationship between digital professionalism and professional identity formation among undergraduate nursing stud..."
   },
   {
     "id": 3,
     "category": "paper",
     "tag": "학술논문",
-    "title": "Prompt Framing and Evidence Requirement for AI-Generated Educational Responses in Dental Education: Experimental Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561407/",
-    "summary": "Large language models are increasingly used in health professions education; however, the role of prompt design in shaping their outputs remains poorly understood in clinical training contexts. In dentistry, where information presentation, perceived credibility, and procedural reasoning are importan..."
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
   },
   {
     "id": 4,
     "category": "paper",
     "tag": "학술논문",
-    "title": "A primer on artificial intelligence for palliative care educators.",
-    "source": "Palliative care and social practice",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42539916/",
-    "summary": "Artificial intelligence (AI) is rapidly being adopted in education in the health care professions, including in palliative care. Yet existing AI primers for health professions education (HPE) are not specific to palliative care (PC) and overlook the relational, prognostic, and cultural sensitivities..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
   },
   {
     "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "url": "",
     "summary": ""
   }
