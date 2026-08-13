@@ -3,49 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial intelligence and digital health competencies in undergraduate nursing education: A scoping review.",
-    "source": "Nurse education today",
+    "title": "A Large Language Model-Based Simulation Protocol Using ChatGPT for Training Novice Critical Care Nurses in Family Crisis Communication and De-escalation.",
+    "source": "Cureus",
     "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580160/",
-    "summary": "The rapid digital transformation of healthcare is reshaping the capabilities required of the nursing workforce. Technologies such as artificial intelligence (AI), clinical decision-support systems, and digital health technologies are increasingly embedded within healthcare delivery. Consequently, pr..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42592181/",
+    "summary": "High-stress conversations with family members in distress are a common part of the intensive care unit (ICU) nursing environment. Novice critical care nurses may have limited opportunities to practice these interactions before encountering them in clinical care. Traditional simulation methods can su..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Digital professionalism and professional identity formation in undergraduate nursing students: A scoping review.",
-    "source": "Nurse education today",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580159/",
-    "summary": "Digital professionalism has become increasingly relevant to nursing education as students engage with social media, generative artificial intelligence, and online platforms. However, the relationship between digital professionalism and professional identity formation among undergraduate nursing stud..."
+    "title": "Development of an integrated AI-VR simulation system for preoperative nursing competency: A pilot study.",
+    "source": "Applied nursing research : ANR",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42586890/",
+    "summary": "AI-driven virtual standardized patients (VSPs) integrated within virtual reality (VR) environments offer structured opportunities for safe communication practice in nursing education; however, empirical evidence regarding their preliminary feasibility and educational effects remains limited, particu..."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
-    "source": "Journal of imaging informatics in medicine",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
-    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
-    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
-  },
-  {
-    "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "url": "",
     "summary": ""
   }
