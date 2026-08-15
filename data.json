@@ -3,40 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "AI literacy and AI anxiety in nursing students: the serial mediating roles of attitudes and self-efficacy.",
-    "source": "Frontiers in public health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42597353/",
-    "summary": "The rapid integration of artificial intelligence (AI) into health care demands that future nurses develop foundational AI competencies. However, the mechanisms through which AI literacy alleviates AI-related anxiety among nursing students remain inadequately understood, particularly regarding the se..."
+    "title": "Artificial Intelligence in Nursing Education: A Scoping Review of Academic Perspectives.",
+    "source": "Journal of advanced nursing",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603140/",
+    "summary": "To examine nursing academics' perceptions and experiences of artificial intelligence (AI) integration in nursing education...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "What are we sharing? Faculty use of generative AI and the questions we have not yet asked in nursing education.",
-    "source": "Nurse education today",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594486/",
-    "summary": "Generative AI has entered nursing education rapidly and pervasively. While considerable scholarly attention has been directed toward student use of these tools, including concerns about academic integrity, citation fabrication, and the design of AI-resistant assessments. Far less attention has been ..."
-  },
-  {
-    "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Mapping artificial intelligence in problem-based and case-based medical education: a bibliometric analysis (2019-2026).",
-    "source": "Frontiers in medicine",
+    "title": "AI literacy and AI anxiety in nursing students: the serial mediating roles of attitudes and self-efficacy.",
+    "source": "Frontiers in public health",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42598001/",
-    "summary": "Problem-based learning (PBL) has been a cornerstone of medical education since its introduction at McMaster University in the 1960s. Since the public release of ChatGPT in November 2022, artificial intelligence (AI) tools have increasingly been applied to PBL and case-based learning (CBL) contexts, ..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Prompt Framing and Evidence Requirement for AI-Generated Educational Responses in Dental Education: Experimental Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561407/",
-    "summary": "Large language models are increasingly used in health professions education; however, the role of prompt design in shaping their outputs remains poorly understood in clinical training contexts. In dentistry, where information presentation, perceived credibility, and procedural reasoning are importan..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597353/",
+    "summary": "The rapid integration of artificial intelligence (AI) into health care demands that future nurses develop foundational AI competencies. However, the mechanisms through which AI literacy alleviates AI-related anxiety among nursing students remain inadequately understood, particularly regarding the se..."
   }
 ]
