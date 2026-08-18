@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "The effect of digital-based educational methods on learning outcomes ın nursing students: An integrative review proposing a conceptual framework.",
+    "source": "Nurse education today",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42607370/",
+    "summary": "In response to the increasingly demanding needs of healthcare today, the integration of digital technologies into nursing education has accelerated. Digital approaches such as simulation, virtual learning environments, and AI-supported applications have become widely used to improve clinical compete..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Using AI-Generated Serious Games to Transform Classroom Engagement in Nursing Education.",
     "source": "Nurse educator",
     "date": "2026-Aug",
@@ -10,33 +20,33 @@
     "summary": ""
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Artificial Intelligence in Nursing Education: A Scoping Review of Academic Perspectives.",
-    "source": "Journal of advanced nursing",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603140/",
-    "summary": "To examine nursing academics' perceptions and experiences of artificial intelligence (AI) integration in nursing education...."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Mapping artificial intelligence in problem-based and case-based medical education: a bibliometric analysis (2019-2026).",
-    "source": "Frontiers in medicine",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42598001/",
-    "summary": "Problem-based learning (PBL) has been a cornerstone of medical education since its introduction at McMaster University in the 1960s. Since the public release of ChatGPT in November 2022, artificial intelligence (AI) tools have increasingly been applied to PBL and case-based learning (CBL) contexts, ..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Prompt Framing and Evidence Requirement for AI-Generated Educational Responses in Dental Education: Experimental Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42561407/",
-    "summary": "Large language models are increasingly used in health professions education; however, the role of prompt design in shaping their outputs remains poorly understood in clinical training contexts. In dentistry, where information presentation, perceived credibility, and procedural reasoning are importan..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Redesigning Nursing Curricula for Human-AI Collaboration Using a Fifth Industrial Revolution Framework: Discursive Paper.",
+    "source": "SAGE open nursing",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41835443/",
+    "summary": "Artificial intelligence (AI) is increasingly embedded in healthcare, reshaping clinical decision-making, care delivery, and professional nursing roles. Although nursing curricula now include digital health and informatics, they remain largely focused on technical skills and insufficiently prepare nu..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-08-18",
+    "url": "",
+    "summary": ""
   }
 ]
