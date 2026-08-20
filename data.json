@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Ability meets motivation: A TAM-Integrated approach using informatics competency and self-efficacy to explain variance in AI clinical system adoption: Cross-sectional study.",
+    "source": "Digital health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42621291/",
+    "summary": "Artificial intelligence (AI)-enabled clinical systems are integrated into nursing education and healthcare, yet nursing students remain inadequately prepared to use them. Although the Technology Acceptance Model (TAM) has been applied to explain technology adoption, limited evidence has examined inf..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "The effect of digital-based educational methods on learning outcomes ın nursing students: An integrative review proposing a conceptual framework.",
     "source": "Nurse education today",
     "date": "2026-Aug",
@@ -10,22 +20,52 @@
     "summary": "In response to the increasingly demanding needs of healthcare today, the integration of digital technologies into nursing education has accelerated. Digital approaches such as simulation, virtual learning environments, and AI-supported applications have become widely used to improve clinical compete..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Using AI-Generated Serious Games to Transform Classroom Engagement in Nursing Education.",
-    "source": "Nurse educator",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42605904/",
-    "summary": ""
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
   },
   {
-    "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Large language models in emergency medicine education: opportunities, challenges, and implementation pathways.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620587/",
+    "summary": "Emergency medicine education occurs in high-acuity, interruption-prone, and time-constrained environments, where learners must develop rapid clinical reasoning, effective communication, procedural competence, and reliable documentation skills. Large language models (LLMs) are increasingly being expl..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Attitudes towards artificial intelligence among students and faculty staff at Kuwait University's Health Science Centre: A cross-sectional study.",
+    "source": "Work (Reading, Mass.)",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42610935/",
+    "summary": "BackgroundArtificial intelligence (AI) is increasingly integrated into healthcare and health-professions education. While it may improve efficiency, decision support, and learning, it also raises concerns about workforce impacts, safety, privacy, and accountability. Gulf-region evidence on how stude..."
+  },
+  {
+    "id": 7,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "url": "",
     "summary": ""
   }
