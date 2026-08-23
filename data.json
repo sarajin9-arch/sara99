@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "The AI Adaptation Paradox: Navigating Professional Relevance and Sustainable Integration in Nursing.",
+    "source": "Nursing inquiry",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42633694/",
+    "summary": "Artificial intelligence is increasingly integrated across nursing education, practice, research, and healthcare systems, yet its long-term sustainability, economic viability, and organizational implications remain uncertain. This raises the question of how the profession should adapt when both rapid..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Mapping the evidence on generative artificial intelligence for higher-order thinking skills in nursing students: A scoping review.",
     "source": "Nurse education in practice",
     "date": "2026-Aug",
@@ -10,27 +20,7 @@
     "summary": "This study aimed to map evidence regarding the role of generative artificial intelligence (GenAI) in developing higher-order thinking skills (HOTS) among nursing students...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "US Nursing Strikes Highlight Systemic Challenges: Can Digital Health Be Part of the Solution?",
-    "source": "Journal of medical Internet research",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42628004/",
-    "summary": "The first half of 2026 has seen several nursing strikes in the United States, driven by persistent workforce shortages and increasing workloads and burden on nursing staff. In this ..."
-  },
-  {
     "id": 3,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Digital professionalism and professional identity formation in undergraduate nursing students: A scoping review.",
-    "source": "Nurse education today",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42580159/",
-    "summary": "Digital professionalism has become increasingly relevant to nursing education as students engage with social media, generative artificial intelligence, and online platforms. However, the relationship between digital professionalism and professional identity formation among undergraduate nursing stud..."
-  },
-  {
-    "id": 4,
     "category": "paper",
     "tag": "학술논문",
     "title": "Twelve tips for using educational data mining and machine learning to predict performance in high-stakes health professions education exams.",
@@ -40,7 +30,7 @@
     "summary": "Integrating artificial intelligence (AI) and educational data mining in health professions education is poised to revolutionize high-stakes examination performance prediction. This study provides a practical guide with 12 essential tips to enhance predictive accuracy, offering actionable insights fo..."
   },
   {
-    "id": 5,
+    "id": 4,
     "category": "paper",
     "tag": "학술논문",
     "title": "Large language models in emergency medicine education: opportunities, challenges, and implementation pathways.",
@@ -50,12 +40,12 @@
     "summary": "Emergency medicine education occurs in high-acuity, interruption-prone, and time-constrained environments, where learners must develop rapid clinical reasoning, effective communication, procedural competence, and reliable documentation skills. Large language models (LLMs) are increasingly being expl..."
   },
   {
-    "id": 6,
+    "id": 5,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "url": "",
     "summary": ""
   }
