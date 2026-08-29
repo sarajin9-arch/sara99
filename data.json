@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Artificial intelligence (AI) literacy educational interventions among nursing students: A systematic review and narrative synthesis.",
+    "source": "Nurse education in practice",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659785/",
+    "summary": "To systematically synthesize evidence on AI literacy educational interventions among nursing students...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Implementing America's AI Action Plan in Health Care: Impact on Student and Practice-Based EHR Education.",
     "source": "Nursing administration quarterly",
     "date": "2026-03",
@@ -10,22 +20,32 @@
     "summary": "National artificial intelligence (AI) policy in the United States is accelerating rapidly through initiatives such as America's AI Action Plan, creating urgency for health care organizations to respond. Although these policies are not health care-specific, their implementation has immediate implicat..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Nursing students' critical engagement with generative AI in evidence-based practice education: A qualitative descriptive study.",
-    "source": "Nurse education today",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42648242/",
-    "summary": "The rapid integration of generative artificial intelligence (GenAI) into nursing education presents both opportunities and challenges, yet empirical evidence on students' critical engagement with AI-generated content within assessment contexts remains limited...."
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
   },
   {
-    "id": 3,
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "url": "",
     "summary": ""
   }
