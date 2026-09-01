@@ -18,5 +18,35 @@
     "date": "2026-Aug",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42664904/",
     "summary": "Generative artificial intelligence tools are increasingly used in nursing education, but excessive reliance on externally generated reasoning may be associated with reduced cognitive engagement. Evidence remains limited on whether within-person changes in generative artificial intelligence dependenc..."
+  },
+  {
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Twelve tips for using educational data mining and machine learning to predict performance in high-stakes health professions education exams.",
+    "source": "Journal of education and health promotion",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626627/",
+    "summary": "Integrating artificial intelligence (AI) and educational data mining in health professions education is poised to revolutionize high-stakes examination performance prediction. This study provides a practical guide with 12 essential tips to enhance predictive accuracy, offering actionable insights fo..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Large language models in emergency medicine education: opportunities, challenges, and implementation pathways.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620587/",
+    "summary": "Emergency medicine education occurs in high-acuity, interruption-prone, and time-constrained environments, where learners must develop rapid clinical reasoning, effective communication, procedural competence, and reliable documentation skills. Large language models (LLMs) are increasingly being expl..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-09-01",
+    "url": "",
+    "summary": ""
   }
 ]
