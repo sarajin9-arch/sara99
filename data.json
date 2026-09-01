@@ -3,41 +3,41 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Digital personas of AI use in nursing education: a latent class analysis of learning behaviors and academic engagement.",
-    "source": "Frontiers in medicine",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42666307/",
-    "summary": "Artificial intelligence (AI) is quickly revolutionizing higher education; however, there is high heterogeneity regarding the adoption of AI amongst the students. In the context of nursing education, where successful learning, critical thinking skills, and professional accountability are crucial, it ..."
+    "title": "Content Validation of a Political Competence Scale in Graduate Nursing Education.",
+    "source": "Nursing education perspectives",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42678780/",
+    "summary": "To examine the content validity of an adapted Political Competence Scale for Nurses (PCS-N) for use in graduate nursing education...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Generative AI dependency and self-perceived clinical decision-making in nursing students: A three-wave longitudinal study of metacognitive awareness as a mediator.",
-    "source": "Nurse education today",
+    "title": "Beyond AI Detection: A Decision-Making Guide for Strategic Assessment Design in Nursing Education.",
+    "source": "Nurse educator",
     "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42664904/",
-    "summary": "Generative artificial intelligence tools are increasingly used in nursing education, but excessive reliance on externally generated reasoning may be associated with reduced cognitive engagement. Evidence remains limited on whether within-person changes in generative artificial intelligence dependenc..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42678779/",
+    "summary": "The use of artificial intelligence (AI) by pre- and postlicensure nursing students threatens the validity of assessments and raises concerns about competency-based evaluation and public safety...."
   },
   {
     "id": 3,
     "category": "paper",
     "tag": "학술논문",
-    "title": "Twelve tips for using educational data mining and machine learning to predict performance in high-stakes health professions education exams.",
-    "source": "Journal of education and health promotion",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626627/",
-    "summary": "Integrating artificial intelligence (AI) and educational data mining in health professions education is poised to revolutionize high-stakes examination performance prediction. This study provides a practical guide with 12 essential tips to enhance predictive accuracy, offering actionable insights fo..."
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
   },
   {
     "id": 4,
     "category": "paper",
     "tag": "학술논문",
-    "title": "Large language models in emergency medicine education: opportunities, challenges, and implementation pathways.",
-    "source": "Frontiers in public health",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42620587/",
-    "summary": "Emergency medicine education occurs in high-acuity, interruption-prone, and time-constrained environments, where learners must develop rapid clinical reasoning, effective communication, procedural competence, and reliable documentation skills. Large language models (LLMs) are increasingly being expl..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
   },
   {
     "id": 5,
