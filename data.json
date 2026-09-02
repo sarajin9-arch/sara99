@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "From adoption to interaction: examining human-GenAI engagement patterns, ethical tensions, and educational trade-offs in nursing education.",
+    "source": "BMC nursing",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42681623/",
+    "summary": "While generative AI (GenAI) tools such as DeepSeek are increasingly embedded in higher education, existing research has predominantly focused on accuracy, bias, and adoption, with limited attention to the nature of human-GenAI interaction in learning. This study examines how nursing students interac..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Content Validation of a Political Competence Scale in Graduate Nursing Education.",
     "source": "Nursing education perspectives",
     "date": "2026-Sep",
@@ -10,34 +20,24 @@
     "summary": "To examine the content validity of an adapted Political Competence Scale for Nurses (PCS-N) for use in graduate nursing education...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Beyond AI Detection: A Decision-Making Guide for Strategic Assessment Design in Nursing Education.",
-    "source": "Nurse educator",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42678779/",
-    "summary": "The use of artificial intelligence (AI) by pre- and postlicensure nursing students threatens the validity of assessments and raises concerns about competency-based evaluation and public safety...."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
-    "source": "Journal of imaging informatics in medicine",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
-    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
-    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "url": "",
     "summary": ""
   }
