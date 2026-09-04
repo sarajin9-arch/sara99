@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Nursing educators' perspectives on artificial intelligence: A rapid review of roles, limits, and implications.",
+    "source": "Nurse education today",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42691649/",
+    "summary": "Artificial intelligence (AI) is rapidly entering academic nursing education, yet its integration remains uneven and often lacks pedagogical guidance. Understanding how nursing educators perceive AI's role is critical to ensuring its appropriate and effective use...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "AI Use, Perceptions, and Perceived Impact Among Nursing Students: Cross-Sectional Study.",
     "source": "JMIR nursing",
     "date": "2026-Aug",
@@ -10,22 +20,32 @@
     "summary": "AI is increasingly being integrated into education and health care, offering opportunities to improve learning, understanding of clinical cases, and students' self-confidence. However, it remains necessary to assess nursing students' perceptions of AI and its impact on their academic and professiona..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "From adoption to interaction: examining human-GenAI engagement patterns, ethical tensions, and educational trade-offs in nursing education.",
-    "source": "BMC nursing",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42681623/",
-    "summary": "While generative AI (GenAI) tools such as DeepSeek are increasingly embedded in higher education, existing research has predominantly focused on accuracy, bias, and adoption, with limited attention to the nature of human-GenAI interaction in learning. This study examines how nursing students interac..."
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
+    "source": "JMIR formative research",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
+    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
   },
   {
-    "id": 3,
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Twelve tips for using educational data mining and machine learning to predict performance in high-stakes health professions education exams.",
+    "source": "Journal of education and health promotion",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626627/",
+    "summary": "Integrating artificial intelligence (AI) and educational data mining in health professions education is poised to revolutionize high-stakes examination performance prediction. This study provides a practical guide with 12 essential tips to enhance predictive accuracy, offering actionable insights fo..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "url": "",
     "summary": ""
   }
