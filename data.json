@@ -21,31 +21,11 @@
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
-    "source": "JMIR formative research",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
-    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Twelve tips for using educational data mining and machine learning to predict performance in high-stakes health professions education exams.",
-    "source": "Journal of education and health promotion",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42626627/",
-    "summary": "Integrating artificial intelligence (AI) and educational data mining in health professions education is poised to revolutionize high-stakes examination performance prediction. This study provides a practical guide with 12 essential tips to enhance predictive accuracy, offering actionable insights fo..."
-  },
-  {
-    "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "url": "",
     "summary": ""
   }
