@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Adaptive AI-based mobile simulation for drug calculation competency in nurses: a mixed-methods RCT.",
+    "source": "BMC nursing",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42717352/",
+    "summary": "Medication dose miscalculations remain one of the most persistent patient safety concerns in clinical practice, while traditional teaching methods often fall short in ensuring proficiency. The integration of artificial intelligence (AI) based learning tools has the potential to enhance knowledge, cl..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Contemplative Pedagogy for Human-Centered Artificial Intelligence in Nursing Education.",
     "source": "The Journal of nursing education",
     "date": "2026-Sep",
@@ -10,33 +20,33 @@
     "summary": "Artificial intelligence (AI) is rapidly transforming nursing and health professions education. Although these technologies offer opportunities for innovation, they also raise concerns related to professional identity, ethical judgment, depersonalization, and burnout...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Nursing educators' perspectives on artificial intelligence: A rapid review of roles, limits, and implications.",
-    "source": "Nurse education today",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42691649/",
-    "summary": "Artificial intelligence (AI) is rapidly entering academic nursing education, yet its integration remains uneven and often lacks pedagogical guidance. Understanding how nursing educators perceive AI's role is critical to ensuring its appropriate and effective use...."
-  },
-  {
     "id": 3,
     "category": "paper",
     "tag": "학술논문",
-    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
-    "source": "Journal of imaging informatics in medicine",
-    "date": "2026-Jul",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
-    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
   },
   {
     "id": 4,
     "category": "paper",
     "tag": "학술논문",
-    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
-    "source": "PloS one",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
-    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
+    "source": "JMIR formative research",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
+    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
+  },
+  {
+    "id": 5,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-09-10",
+    "url": "",
+    "summary": ""
   }
 ]
