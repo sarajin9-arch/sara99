@@ -3,41 +3,41 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Adaptive AI-based mobile simulation for drug calculation competency in nurses: a mixed-methods RCT.",
-    "source": "BMC nursing",
+    "title": "Effect of Nursing Students' Artificial Intelligence Self-Efficacy on Innovative Behavior.",
+    "source": "Nurse educator",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717352/",
-    "summary": "Medication dose miscalculations remain one of the most persistent patient safety concerns in clinical practice, while traditional teaching methods often fall short in ensuring proficiency. The integration of artificial intelligence (AI) based learning tools has the potential to enhance knowledge, cl..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726715/",
+    "summary": "Artificial intelligence (AI) technology is increasingly integrated into health care. Developing nursing students' innovation capacity takes center stage in nursing education...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Contemplative Pedagogy for Human-Centered Artificial Intelligence in Nursing Education.",
-    "source": "The Journal of nursing education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42714236/",
-    "summary": "Artificial intelligence (AI) is rapidly transforming nursing and health professions education. Although these technologies offer opportunities for innovation, they also raise concerns related to professional identity, ethical judgment, depersonalization, and burnout...."
+    "title": "Artificial Intelligence in Nursing Practice Education: A Systematic Review and Meta-Analysis.",
+    "source": "Journal of nursing management",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723321/",
+    "summary": "To systematically evaluate the application effect of artificial intelligence (AI) technology in nursing practice courses and to provide evidence-based guidance for the intelligent reform of nursing education...."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
-    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
-    "source": "JMIR formative research",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
-    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "url": "",
     "summary": ""
   }
