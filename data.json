@@ -3,20 +3,70 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The writing microboost initiative: An embedded model to strengthen scholarly writing in graduate nursing education.",
-    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42744450/",
-    "summary": "Graduate nursing programs often enroll students who lack strong academic writing foundations, creating barriers to success in coursework, scholarship, and evidence-based practice. Traditional remediation strategies frequently increase workload for both students and faculty...."
+    "title": "AI System Usability and Learning Engagement in Nursing Simulation: Cross-Sectional Statistical Indirect Associations Through Extraneous Cognitive Load and Flow Experience.",
+    "source": "Nursing open",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758962/",
+    "summary": "The association between artificial intelligence simulation-system usability and nursing students' learning engagement remains unclear...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Beyond AI literacy to irreplaceable human capacities: What nursing education must teach in the AI era.",
-    "source": "Journal of professional nursing : official journal of the American Association of Colleges of Nursing",
+    "title": "Reflect-Compare-Revise (RCR): A Practitioner Inquiry on Integrating Generative AI in Nursing Care Planning Education.",
+    "source": "Medical science educator",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42756251/",
+    "summary": "Generative AI can improve the linguistic fluency and organization of student writing, but dependence on it for answers may weaken clinical reasoning, raising concerns about AI-shaped nursing judgment and accountability. This practitioner action research developed and implemented a Reflect-Compare-Re..."
+  },
+  {
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42744438/",
-    "summary": "Generative artificial intelligence (AI) has prompted urgent calls for AI literacy in nursing education, yet literacy in operating AI tools is no longer a sufficient educational goal. As AI absorbs more routine cognitive and technical work, the more consequential question becomes which forms of human..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
+    "source": "JMIR formative research",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
+    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
+  },
+  {
+    "id": 7,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-09-18",
+    "url": "",
+    "summary": ""
   }
 ]
