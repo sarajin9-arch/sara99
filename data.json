@@ -3,40 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Daily temporal associations among AI replacement anxiety, state anxiety, and academic burnout indicators in medicine and nursing students: a 10-day diary study.",
-    "source": "BMC nursing",
+    "title": "Nursing, omics, and artificial intelligence: Precision health's trifecta.",
+    "source": "Nursing outlook",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773445/",
-    "summary": "Artificial intelligence (AI) is increasingly entering medicine and nursing education, raising concerns about how healthcare students respond to AI-related occupational uncertainty. AI replacement anxiety (ARA) may become more or less salient across academic days, but little is known about its short-..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777318/",
+    "summary": "Precision health individualizes care by integrating biological, environmental, and social drivers of health, a perspective that aligns with the holistic lens of nursing. Advances in omics, including genomics, epigenomics, transcriptomics, proteomics, microbiomics, and metabolomics, have expanded our..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The credential and the clinician: Generative AI, cognitive substitution, and what universities owe society in nursing education.",
-    "source": "Nurse education in practice",
+    "title": "Daily temporal associations among AI replacement anxiety, state anxiety, and academic burnout indicators in medicine and nursing students: a 10-day diary study.",
+    "source": "BMC nursing",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42772063/",
-    "summary": "To argue that generative AI (GenAI) poses a distinct threat to nursing credentialling, one that operates as cognitive substitution rather than cognitive supplement, and to examine why a prominent institutional response to GenAI in assessment, while well designed for general higher education, fails w..."
-  },
-  {
-    "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
-    "source": "Gerontology & geriatrics education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
-    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
-    "source": "BMC medical education",
-    "date": "2026-Apr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
-    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42773445/",
+    "summary": "Artificial intelligence (AI) is increasingly entering medicine and nursing education, raising concerns about how healthcare students respond to AI-related occupational uncertainty. AI replacement anxiety (ARA) may become more or less salient across academic days, but little is known about its short-..."
   }
 ]
