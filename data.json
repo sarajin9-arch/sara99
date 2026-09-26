@@ -3,20 +3,60 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Nursing, omics, and artificial intelligence: Precision health's trifecta.",
-    "source": "Nursing outlook",
+    "title": "Artificial intelligence-related perceptions and E-health literacy among nursing students in Palestine: A cross-sectional study.",
+    "source": "PLOS digital health",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42777318/",
-    "summary": "Precision health individualizes care by integrating biological, environmental, and social drivers of health, a perspective that aligns with the holistic lens of nursing. Advances in omics, including genomics, epigenomics, transcriptomics, proteomics, microbiomics, and metabolomics, have expanded our..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42789604/",
+    "summary": "Artificial intelligence (AI) and e-health literacy are increasingly relevant to nursing education; however, the relationship between nursing students' perceptions and acceptance of AI and their perceived ability to locate, evaluate, and apply online health information remains insufficiently examined..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Daily temporal associations among AI replacement anxiety, state anxiety, and academic burnout indicators in medicine and nursing students: a 10-day diary study.",
-    "source": "BMC nursing",
+    "title": "Ethical considerations of undergraduate nursing students using artificial intelligence for learning: A qualitative study.",
+    "source": "Applied nursing research : ANR",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42785826/",
+    "summary": "Artificial intelligence technology is rapidly penetrating the field of nursing education, and students are widely using AI tools in their learning process. As a result, the ethical issues thus raised are drawing increasing attention...."
+  },
+  {
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Implementation and evaluation of customized artificial intelligence personal tutor (chat GPT physiology companion) for medical students in the reproduction module.",
+    "source": "BMC medical education",
+    "date": "2026-Apr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41917897/",
+    "summary": "Artificial Intelligence (AI) has emerged as a transformative tool in education, offering personalized learning, adaptive assessments, and real-time feedback. This study investigates the impact of a customized AI-powered tutoring system—GPT Reproductive Physiology Companion—on student satisfaction an..."
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773445/",
-    "summary": "Artificial intelligence (AI) is increasingly entering medicine and nursing education, raising concerns about how healthcare students respond to AI-related occupational uncertainty. AI replacement anxiety (ARA) may become more or less salient across academic days, but little is known about its short-..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
+    "source": "JMIR formative research",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
+    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
   }
 ]
