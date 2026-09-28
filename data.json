@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Network analysis of artificial intelligence attitudes and literacy among clinical nursing educators: Subgroup comparisons based on training experience and educational implications.",
+    "source": "Nurse education today",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42800193/",
+    "summary": "Artificial intelligence (AI) is being rapidly integrated into healthcare practice. However, the complex interrelationships between AI attitudes and literacy among clinical nursing educators, and the impact of training experience, remain poorly understood...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Current status and influencing factors of AI literacy among nursing students: A scoping review.",
     "source": "Nurse education today",
     "date": "2026-Sep",
@@ -10,42 +20,12 @@
     "summary": "With the rapid adoption of artificial intelligence (AI) technologies in the healthcare sector, AI literacy has become one of the core competencies for nursing students. However, the existing evidence regarding the factors influencing AI literacy among nursing students is currently fragmented and lac..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Artificial intelligence (AI) in nursing education: An evolutionary concept analysis.",
-    "source": "Nurse education today",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42790066/",
-    "summary": "Although Artificial Intelligence (AI) has been explored for decades in nursing education, the existing body of knowledge provides no clear definition of the phenomenon. As technological advancements continue to shape teaching and learning environments, establishing a clear and robust definition of A..."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
-    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Teaching the Atomic Sentence Method for Source-Verified, AI-Assisted Literature Synthesis to Clinical Health Care Professionals: Single-Cohort Feasibility and Acceptability Study.",
-    "source": "JMIR formative research",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42684317/",
-    "summary": "Generative AI can reduce the academic-writing burden on clinical health care professionals, but unsupervised use introduces citation hallucination (the confident fabrication or misattribution of references), which threatens research integrity. When a machine invents a source, it is termed \"hallucina..."
-  },
-  {
-    "id": 5,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "url": "",
     "summary": ""
   }
