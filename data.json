@@ -3,29 +3,69 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "AI-based virtual patient interactions improve professional language proficiency in international nurses.",
-    "source": "GMS journal for medical education",
+    "title": "Association between artificial intelligence literacy and empathic behavior among nursing interns: adjustment for moral distress and moral resilience.",
+    "source": "Frontiers in medicine",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42807201/",
-    "summary": "International healthcare personnel face significant challenges in language acquisition. We investigated whether virtual patient interaction (VI) training can support professional integration and clinical language proficiency...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42812266/",
+    "summary": "Artificial intelligence (AI) literacy is increasingly relevant in nursing education, yet its association with empathic behavior among nursing interns remains unclear...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial Intelligence Perceptions and Readiness Among Clinical Nurses: A Latent Profile Analysis With Implications for Nursing Management.",
-    "source": "Journal of nursing management",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42803628/",
-    "summary": "This study aimed to identify latent profiles of artificial intelligence (AI) perceptions and readiness among clinical nurses based on their AI-related attitudes, literacy, self-efficacy, and anxiety, and to explore the influencing factors associated with each profile...."
+    "title": "Artificial Intelligence as an Educational Innovation in Nursing Simulation: The Avatar Will See You Now.",
+    "source": "Nurse educator",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42809886/",
+    "summary": "Simulation-based education is central to nursing curricula but is resource-intensive, particularly when intended to support repeated, low-stakes practice. Artificial intelligence (AI) is increasingly explored as a strategy to extend simulation-based learning...."
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 7,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "url": "",
     "summary": ""
   }
