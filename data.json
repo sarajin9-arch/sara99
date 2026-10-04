@@ -3,30 +3,40 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Approaches used in Canadian academic institutions to keep nursing students safe during clinical placements: a systematic review protocol of policy and expert opinion.",
-    "source": "JBI evidence synthesis",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42825643/",
-    "summary": "This review will synthesize the available evidence on approaches used by Canadian academic institutions to keep nursing students safe during clinical placements...."
+    "title": "Attitudes toward artificial intelligence among CRNA students: A multi-institutional cross-sectional study.",
+    "source": "Nurse education today",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826631/",
+    "summary": "As artificial intelligence continues to transform healthcare and education, nurse anesthesia students must be prepared to use artificial intelligence tools effectively in both academic and clinical environments. Little is known about these students' current exposure to artificial intelligence or the..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Can AI grade like a nurse educator? Benchmarking large language models for automated scoring of open-ended assessments in nursing education: A descriptive cross-sectional study.",
+    "title": "When the answer is right, who did the reasoning? Rethinking clinical judgment in the age of generative AI.",
     "source": "Nurse education today",
     "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42822144/",
-    "summary": "Open-ended, case-based assessments are essential for evaluating clinical reasoning in nursing education, yet their high-scoring burden limits their widespread use, particularly in large cohorts. Large language models (LLMs) may reduce this barrier, but empirical evidence in nursing education remains..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826630/",
+    "summary": "Generative artificial intelligence can now produce plausible and sometimes correct responses to complex learning tasks, making answer quality a less reliable indicator of students' understanding and judgment. When artificial intelligence contributes to information seeking, synthesis, interpretation,..."
   },
   {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-10-03",
-    "url": "",
-    "summary": ""
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination.",
+    "source": "PloS one",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391223/",
+    "summary": "The rapid advancement of Large Language Models (LLMs) presents unprecedented opportunities for healthcare education and professional credentialing. However, comprehensive longitudinal analyses of their evolving capabilities in nursing contexts remain limited...."
   }
 ]
