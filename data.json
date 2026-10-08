@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Bridging the Theory-Practice Divide in ECG Education: A Multistakeholder Qualitative Inquiry.",
-    "source": "Nursing open",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42836365/",
-    "summary": "To explore the perspectives of nursing students, clinical nurses, and nurse educators on electrocardiography (ECG) education and identify strategies to bridge the theory-practice divide and prepare nurses for future-oriented learning environments...."
+    "title": "A study on the current status and associated factors of artificial intelligence literacy among undergraduate nursing students.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840259/",
+    "summary": "The primary objective of this study was to investigate undergraduate nursing students' present level of artificial intelligence (AI) literacy and related issues, as well as to offer resources that nursing educators may use to create focused intervention methods...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "How narrative nursing pedagogy and GenAI-assisted learning work together: A qualitative process evaluation of a grounding-expansion mechanism.",
-    "source": "Nurse education today",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833144/",
-    "summary": "Integrating humanistic care with emerging technologies is a pressing challenge in nursing education. Narrative nursing pedagogy and generative artificial intelligence (GenAI)-assisted learning represent two potentially complementary approaches, yet their integration mechanism in clinical nursing edu..."
+    "title": "Artificial intelligence and virtual reality-based communication skills training in nursing education: a systematic review with implications for palliative care.",
+    "source": "BMC nursing",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839241/",
+    "summary": "The need for communication is common to all nurses during patient interaction in different medical scenarios, such as palliative care and end of life care. It is important to note that many nurses and nursing students perceive their level of training as inadequate to deal with difficult conversation..."
   },
   {
     "id": 3,
     "category": "university",
     "tag": "대학교육 혁신",
+    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
+    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+  },
+  {
+    "id": 5,
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "url": "",
     "summary": ""
   }
