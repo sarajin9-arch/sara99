@@ -3,50 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "A study on the current status and associated factors of artificial intelligence literacy among undergraduate nursing students.",
-    "source": "Frontiers in public health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42840259/",
-    "summary": "The primary objective of this study was to investigate undergraduate nursing students' present level of artificial intelligence (AI) literacy and related issues, as well as to offer resources that nursing educators may use to create focused intervention methods...."
+    "title": "Code With Care: A Strategic Blueprint for Nurse-Led AI in Healthcare.",
+    "source": "Journal of advanced nursing",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844154/",
+    "summary": "Artificial intelligence (AI) is reshaping healthcare delivery. This work aims to explore how nursing expertise can be fully integrated into the development of AI-based health technologies and to assess the implications for clinical practice, education, leadership, industry, policy and research...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial intelligence and virtual reality-based communication skills training in nursing education: a systematic review with implications for palliative care.",
-    "source": "BMC nursing",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839241/",
-    "summary": "The need for communication is common to all nurses during patient interaction in different medical scenarios, such as palliative care and end of life care. It is important to note that many nurses and nursing students perceive their level of training as inadequate to deal with difficult conversation..."
-  },
-  {
-    "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
-    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
-    "source": "Gerontology & geriatrics education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
-    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
-  },
-  {
-    "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-10-08",
-    "url": "",
-    "summary": ""
+    "title": "From exploration to application: A scoping review of stand-alone generative AI tool use in undergraduate nursing education and its impact on learning outcomes.",
+    "source": "Nurse education in practice",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42843281/",
+    "summary": "To review the applied, student directed use of stand-alone Generative Artificial Intelligence (Gen-AI) tools in undergraduate nursing education, with consideration given to pedagogical structure, learning outcomes, usability and student experience, to inform meaningful integration of these tools wit..."
   }
 ]
