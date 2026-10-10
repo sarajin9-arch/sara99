@@ -18,5 +18,55 @@
     "date": "2026-Oct",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42843281/",
     "summary": "To review the applied, student directed use of stand-alone Generative Artificial Intelligence (Gen-AI) tools in undergraduate nursing education, with consideration given to pedagogical structure, learning outcomes, usability and student experience, to inform meaningful integration of these tools wit..."
+  },
+  {
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
+    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+  },
+  {
+    "id": 5,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 7,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-10-10",
+    "url": "",
+    "summary": ""
   }
 ]
