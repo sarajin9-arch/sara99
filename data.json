@@ -18,25 +18,5 @@
     "date": "2026-Oct",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42843281/",
     "summary": "To review the applied, student directed use of stand-alone Generative Artificial Intelligence (Gen-AI) tools in undergraduate nursing education, with consideration given to pedagogical structure, learning outcomes, usability and student experience, to inform meaningful integration of these tools wit..."
-  },
-  {
-    "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
-    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
-    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
   }
 ]
