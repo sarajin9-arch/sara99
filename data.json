@@ -3,20 +3,50 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Code With Care: A Strategic Blueprint for Nurse-Led AI in Healthcare.",
-    "source": "Journal of advanced nursing",
+    "title": "Artificial Intelligence Supported Teaching Approaches in Nursing Education: A Scoping Review.",
+    "source": "The Journal of nursing education",
     "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42844154/",
-    "summary": "Artificial intelligence (AI) is reshaping healthcare delivery. This work aims to explore how nursing expertise can be fully integrated into the development of AI-based health technologies and to assess the implications for clinical practice, education, leadership, industry, policy and research...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873716/",
+    "summary": "The increasing integration of artificial intelligence (AI) has generated growing interest in its use to support teaching and learning in nursing education. This scoping review aimed to map the existing literature on AI-supported teaching approaches in nursing education, examine how learning outcome ..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "From exploration to application: A scoping review of stand-alone generative AI tool use in undergraduate nursing education and its impact on learning outcomes.",
-    "source": "Nurse education in practice",
+    "title": "The Impact of Artificial Intelligence Language Models on Critical Thinking in Theoretical and Practical Aspects of Learning among Undergraduate Nursing Students: A Narrative Review.",
+    "source": "Creative nursing",
     "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42843281/",
-    "summary": "To review the applied, student directed use of stand-alone Generative Artificial Intelligence (Gen-AI) tools in undergraduate nursing education, with consideration given to pedagogical structure, learning outcomes, usability and student experience, to inform meaningful integration of these tools wit..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873543/",
+    "summary": "Artificial Intelligence (AI) language models are increasingly used in higher education. Many students use them for learning, often without proper academic policies or guidelines. Nursing undergraduate curricula include both theoretical and practical aspects of learning, in which critical thinking is..."
+  },
+  {
+    "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-10-15",
+    "url": "",
+    "summary": ""
   }
 ]
