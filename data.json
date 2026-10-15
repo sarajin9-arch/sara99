@@ -3,50 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial Intelligence Supported Teaching Approaches in Nursing Education: A Scoping Review.",
-    "source": "The Journal of nursing education",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42873716/",
-    "summary": "The increasing integration of artificial intelligence (AI) has generated growing interest in its use to support teaching and learning in nursing education. This scoping review aimed to map the existing literature on AI-supported teaching approaches in nursing education, examine how learning outcome ..."
+    "title": "Nurse-led digital triage and health literacy navigation: redefining the front door of public health in the artificial intelligence era.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876618/",
+    "summary": "Artificial intelligence (AI)-driven digital triage is fast becoming the front door of public health systems worldwide. As algorithms take over symptom assessment and risk stratification, however, nurses risk being reduced to validators of machine output, and patients with limited health literacy ris..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The Impact of Artificial Intelligence Language Models on Critical Thinking in Theoretical and Practical Aspects of Learning among Undergraduate Nursing Students: A Narrative Review.",
-    "source": "Creative nursing",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42873543/",
-    "summary": "Artificial Intelligence (AI) language models are increasingly used in higher education. Many students use them for learning, often without proper academic policies or guidelines. Nursing undergraduate curricula include both theoretical and practical aspects of learning, in which critical thinking is..."
-  },
-  {
-    "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
-    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
-    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
-  },
-  {
-    "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-10-15",
-    "url": "",
-    "summary": ""
+    "title": "Nursing students' experiences with using generative artificial intelligence: a descriptive qualitative study.",
+    "source": "Frontiers in medicine",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876528/",
+    "summary": "The rapid development of generative artificial intelligence (GenAI) has brought new opportunities to nursing education, while raising numerous concerns. Existing research has primarily focused on nursing students' acceptance, attitudes, and willingness to use GenAI, whereas studies exploring their e..."
   }
 ]
