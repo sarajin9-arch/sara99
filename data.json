@@ -3,20 +3,50 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Nurse-led digital triage and health literacy navigation: redefining the front door of public health in the artificial intelligence era.",
-    "source": "Frontiers in public health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42876618/",
-    "summary": "Artificial intelligence (AI)-driven digital triage is fast becoming the front door of public health systems worldwide. As algorithms take over symptom assessment and risk stratification, however, nurses risk being reduced to validators of machine output, and patients with limited health literacy ris..."
+    "title": "The mediating role of AI anxiety between AI literacy and attitudes towards AI in nursing students: a cross-sectional study.",
+    "source": "BMC medical education",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42881380/",
+    "summary": "AI is a key driver in the Fourth Industrial Revolution, significantly impacting healthcare. Nursing students' acceptance and readiness to use AI are crucial for its successful integration. Understanding their perceptions is vital to prepare them for the intelligent healthcare era...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Nursing students' experiences with using generative artificial intelligence: a descriptive qualitative study.",
-    "source": "Frontiers in medicine",
+    "title": "eHealth literacy levels and associated factors among nursing students: A global systematic review and meta-analysis.",
+    "source": "Nurse education today",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879965/",
+    "summary": "The rapid digital transformation of healthcare highlights the importance of electronic health literacy (eHealth literacy) for nursing students. However, existing global evidence regarding their eHealth literacy levels and associated factors remains fragmented...."
+  },
+  {
+    "id": 3,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
+    "source": "Advances in medical education and practice",
     "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42876528/",
-    "summary": "The rapid development of generative artificial intelligence (GenAI) has brought new opportunities to nursing education, while raising numerous concerns. Existing research has primarily focused on nursing students' acceptance, attitudes, and willingness to use GenAI, whereas studies exploring their e..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
+    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
+  },
+  {
+    "id": 4,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-10-17",
+    "url": "",
+    "summary": ""
   }
 ]
