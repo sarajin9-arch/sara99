@@ -21,23 +21,23 @@
   },
   {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
-    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "SentiAgent: An agentic LLM framework for context-aware and explainable sentiment analysis.",
+    "source": "MethodsX",
+    "date": "2026-Dec",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42861221/",
+    "summary": "Sentiment analysis has become a fundamental task in Natural Language Processing (NLP) due to the rapid growth of user-generated content across social media, e-commerce, healthcare, education, and customer feedback platforms. Despite the success of transformer-based models and Large Language Models (..."
   },
   {
     "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
-    "source": "Gerontology & geriatrics education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
-    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-Jul",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527789/",
+    "summary": "In recent years, vision-language models (VLMs) have been applied to various fields, including healthcare, education, finance, and manufacturing, with remarkable performance. However, concerns remain regarding VLMs' consistency and uncertainty, particularly in critical applications such as healthcare..."
   },
   {
     "id": 5,
