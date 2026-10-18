@@ -41,11 +41,31 @@
   },
   {
     "id": 5,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 6,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 7,
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "url": "",
     "summary": ""
   }
