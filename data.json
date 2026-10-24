@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Cognitive Offload Visibility: A design principle for instructional design and assessment in AI-mediated nursing education.",
+    "title": "Is knowledge a buffer or a burden? The mediating role of AI literacy in the relationship between medical AI readiness and AI anxiety in nursing education.",
     "source": "Nurse education today",
     "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42896251/",
-    "summary": "Generative artificial intelligence (AI) is embedded in the everyday work of nurse educators and students, yet the boundary between learner cognition and AI cognition often remains invisible. AI-assisted work can circulate without explicit differentiation between the contribution of the tool and the ..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913365/",
+    "summary": "Artificial intelligence (AI) is rapidly transforming healthcare, yet AI anxiety remains a significant barrier to its adoption...."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The mediating role of AI anxiety between AI literacy and attitudes towards AI in nursing students: a cross-sectional study.",
-    "source": "BMC medical education",
+    "title": "Association of artificial intelligence literacy with moral distress and moral resilience among nursing interns: A cross-sectional study.",
+    "source": "Nurse education today",
     "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42881380/",
-    "summary": "AI is a key driver in the Fourth Industrial Revolution, significantly impacting healthcare. Nursing students' acceptance and readiness to use AI are crucial for its successful integration. Understanding their perceptions is vital to prepare them for the intelligent healthcare era...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913362/",
+    "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare and nursing education, requiring new forms of digital competency among nursing interns. However, the associations of AI literacy with ethical and psychological outcomes among nursing interns remain unclear. This study examined t..."
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710030/",
+    "summary": "As AI fundamentally transforms the healthcare landscape, medical education curricula have struggled to keep pace with these technological shifts. While current research has established a foundation for general AI literacy, less attention has been given to the role-specific competencies required for ..."
+  },
+  {
+    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "url": "",
     "summary": ""
   }
