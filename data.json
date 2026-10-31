@@ -3,29 +3,39 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Orientation Sessions Regarding Application of Artificial Intelligence in Obstetric Nursing: Its Effect on Maternity Students' Knowledge and Attitude.",
-    "source": "Nursing research and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42948764/",
-    "summary": "Artificial intelligence (AI) is transforming healthcare and nursing education globally. Despite its growing relevance, limited research has explored how orientation sessions influence nursing students' knowledge and attitudes toward AI, particularly in maternity care settings in Egypt. This study ev..."
+    "title": "From Academic Integrity to Professional Formation in Generative AI-Supported Nursing Education: Integrative Review.",
+    "source": "JMIR nursing",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962069/",
+    "summary": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity. However, this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI al..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Artificial intelligence readiness profiles associated with critical thinking among nursing interns: A latent profile analysis.",
-    "source": "Nurse education today",
+    "title": "From Theory to Evaluation: Deriving the Transcultural Nurse-AI Synergy Model for Systematic Assessment of AI Outputs.",
+    "source": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
     "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42945638/",
-    "summary": "To identify distinct profiles of artificial intelligence (AI) readiness among nursing interns, to explore the relationship between these profiles and critical thinking ability, and to examine the factors associated with profile membership...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958949/",
+    "summary": "Artificial intelligence (AI) is increasingly integrated into nursing education, research, and practice, raising concerns about cultural relevance, ethical integrity, and preservation of human-centered care. To address these challenges, the Transcultural Nurse-Artificial Intelligence (TCN-AI) Synergy..."
   },
   {
     "id": 3,
+    "category": "nursing",
+    "tag": "간호교육 AI",
+    "title": "Exploring nursing students' experiences of using generative AI for emotional intelligence learning: a qualitative study.",
+    "source": "Frontiers in public health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935854/",
+    "summary": "Emotional intelligence is a core competency for nursing students; however, traditional nursing education faces challenges in fostering emotional intelligence, including curricular imbalances, limited teaching methods, and delayed assessment and feedback. The rapid development of generative artificia..."
+  },
+  {
+    "id": 4,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "url": "",
     "summary": ""
   }
