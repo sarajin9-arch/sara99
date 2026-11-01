@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Artificial intelligence-supported revision of nursing care plans in a standardised newborn vignette: a one-group pretest-posttest study.",
+    "source": "Journal of research in nursing : JRN",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964291/",
+    "summary": "Nursing students often produce care plans that are plausible yet generic, with weak linkage among diagnoses, interventions and outcomes. Teacher-mediated, bounded generative AI may support revision while preserving clinical judgement...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "From Academic Integrity to Professional Formation in Generative AI-Supported Nursing Education: Integrative Review.",
     "source": "JMIR nursing",
     "date": "2026-Oct",
@@ -10,32 +20,12 @@
     "summary": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity. However, this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI al..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "From Theory to Evaluation: Deriving the Transcultural Nurse-AI Synergy Model for Systematic Assessment of AI Outputs.",
-    "source": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42958949/",
-    "summary": "Artificial intelligence (AI) is increasingly integrated into nursing education, research, and practice, raising concerns about cultural relevance, ethical integrity, and preservation of human-centered care. To address these challenges, the Transcultural Nurse-Artificial Intelligence (TCN-AI) Synergy..."
-  },
-  {
     "id": 3,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Exploring nursing students' experiences of using generative AI for emotional intelligence learning: a qualitative study.",
-    "source": "Frontiers in public health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935854/",
-    "summary": "Emotional intelligence is a core competency for nursing students; however, traditional nursing education faces challenges in fostering emotional intelligence, including curricular imbalances, limited teaching methods, and delayed assessment and feedback. The rapid development of generative artificia..."
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
+    "category": "policy",
+    "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "url": "",
     "summary": ""
   }
