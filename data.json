@@ -21,11 +21,31 @@
   },
   {
     "id": 3,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "AI Literacy and Training Needs Among French Midwifery Students: National Cross-Sectional Online Survey and Exploratory Qualitative Follow-Up.",
+    "source": "JMIR medical education",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932861/",
+    "summary": "AI is increasingly relevant to health care and health professional education, but AI-related knowledge, perceptions, and training needs among midwifery students remain underdocumented. Evidence is needed to inform midwifery curricula and to clarify how students understand and operationalize AI in tr..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
+    "source": "JMIR medical education",
+    "date": "2026-Sep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
+    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+  },
+  {
+    "id": 5,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "url": "",
     "summary": ""
   }
