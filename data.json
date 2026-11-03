@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "The Role of Artificial Intelligence in Developing a Future-Ready Nursing Workforce: A Systematic Review.",
+    "source": "Journal of nursing management",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968500/",
+    "summary": "Artificial intelligence (AI) is increasingly transforming health care through advanced technologies that support clinical practice, education, workforce management, and decision making. As healthcare systems face growing challenges related to workforce shortages, increasing service demands, and rapi..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Artificial intelligence-supported revision of nursing care plans in a standardised newborn vignette: a one-group pretest-posttest study.",
     "source": "Journal of research in nursing : JRN",
     "date": "2026-Oct",
@@ -10,34 +20,24 @@
     "summary": "Nursing students often produce care plans that are plausible yet generic, with weak linkage among diagnoses, interventions and outcomes. Teacher-mediated, bounded generative AI may support revision while preserving clinical judgement...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "From Academic Integrity to Professional Formation in Generative AI-Supported Nursing Education: Integrative Review.",
-    "source": "JMIR nursing",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962069/",
-    "summary": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity. However, this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI al..."
-  },
-  {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "AI Literacy and Training Needs Among French Midwifery Students: National Cross-Sectional Online Survey and Exploratory Qualitative Follow-Up.",
-    "source": "JMIR medical education",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42932861/",
-    "summary": "AI is increasingly relevant to health care and health professional education, but AI-related knowledge, perceptions, and training needs among midwifery students remain underdocumented. Evidence is needed to inform midwifery curricula and to clarify how students understand and operationalize AI in tr..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
+    "source": "Advances in medical education and practice",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
+    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
   },
   {
     "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Generative Language Models in Medical Education: From Advent to Entrustment.",
-    "source": "JMIR medical education",
-    "date": "2026-Sep",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42814479/",
-    "summary": "Early discussions of generative language models in medical education emphasized their promise for simulation, digital patients, individualized feedback, learner assessment, health information dissemination, research support, and translation, while also warning about bias, privacy, academic integrity..."
+    "category": "university",
+    "tag": "대학교육 혁신",
+    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
+    "source": "Gerontology & geriatrics education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
+    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "url": "",
     "summary": ""
   }
