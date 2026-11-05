@@ -3,21 +3,21 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Knowledge, attitudes, practices, and perceived barriers regarding artificial intelligence among undergraduate nursing students in Somalia: A cross-sectional study.",
-    "source": "Digital health",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42973646/",
-    "summary": "Artificial intelligence (AI) is shaping healthcare delivery and nursing education, but evidence on AI readiness among nursing students in low-resource settings remains limited. Understanding students' knowledge, attitudes, practices, and perceived barriers is important for planning safe, ethical, an..."
+    "title": "Exploring faculty members' experiences with artificial intelligence-supported teaching tools: An exploratory qualitative study.",
+    "source": "Nurse education today",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976390/",
+    "summary": "Artificial intelligence (AI) is transforming higher education, including nursing education. While AI-supported tools offer opportunities to enhance teaching and learning, concerns remain regarding academic integrity, evolving professional roles, and the preservation of human-centered education. To d..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The Role of Artificial Intelligence in Developing a Future-Ready Nursing Workforce: A Systematic Review.",
-    "source": "Journal of nursing management",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42968500/",
-    "summary": "Artificial intelligence (AI) is increasingly transforming health care through advanced technologies that support clinical practice, education, workforce management, and decision making. As healthcare systems face growing challenges related to workforce shortages, increasing service demands, and rapi..."
+    "title": "Understanding nursing students' awareness of the 2030 sustainable development goals and perceptions of the global future: A comparative and explainable machine learning analysis.",
+    "source": "Nurse education today",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976389/",
+    "summary": "This study aimed to examine nursing students' awareness of the 2030 Sustainable Development Goals (SDGs) and their perceptions of the global future, and to identify key predictors of sustainability awareness using explainable artificial intelligence (XAI)-based analytical methods...."
   },
   {
     "id": 3,
@@ -38,5 +38,15 @@
     "date": "2026-Aug",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
     "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
+  },
+  {
+    "id": 5,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-11-05",
+    "url": "",
+    "summary": ""
   }
 ]
