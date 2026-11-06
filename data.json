@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.",
+    "source": "Journal of medical Internet research",
+    "date": "2026-Nov",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986217/",
+    "summary": "Large language models (LLMs) show great potential for widespread application in the field of nursing; however, their limitations include hallucinations, insufficient domain knowledge, and delays in updating evidence. Retrieval-augmented generation (RAG), by combining external knowledge retrieval wit..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Exploring faculty members' experiences with artificial intelligence-supported teaching tools: An exploratory qualitative study.",
     "source": "Nurse education today",
     "date": "2026-Oct",
@@ -10,42 +20,12 @@
     "summary": "Artificial intelligence (AI) is transforming higher education, including nursing education. While AI-supported tools offer opportunities to enhance teaching and learning, concerns remain regarding academic integrity, evolving professional roles, and the preservation of human-centered education. To d..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Understanding nursing students' awareness of the 2030 sustainable development goals and perceptions of the global future: A comparative and explainable machine learning analysis.",
-    "source": "Nurse education today",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976389/",
-    "summary": "This study aimed to examine nursing students' awareness of the 2030 Sustainable Development Goals (SDGs) and their perceptions of the global future, and to identify key predictors of sustainability awareness using explainable artificial intelligence (XAI)-based analytical methods...."
-  },
-  {
     "id": 3,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "AI-Enhanced Virtual Simulation as an Adjunct to Skills Laboratory and Clinical Training in Radiography Education: A Commentary from Somalia and Other Resource-Constrained Settin.",
-    "source": "Advances in medical education and practice",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829668/",
-    "summary": "Radiography education requires repeated practice in positioning, exposure selection, image evaluation, communication, and radiation protection. Virtual simulation can provide safe rehearsal before clinical exposure, but virtual reality, conventional digital simulation, and artificial intelligence (A..."
-  },
-  {
-    "id": 4,
-    "category": "university",
-    "tag": "대학교육 혁신",
-    "title": "Innovations in dementia education in health sciences: curriculum design and partnerships across three countries.",
-    "source": "Gerontology & geriatrics education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42661145/",
-    "summary": "As dementia prevalence rises globally, health sciences education must evolve to prepare future professionals across disciplines to provide person-centered care. This brief report provides a descriptive summary of dementia education initiatives presented during a 2025 Universitas 21 Health Sciences G..."
-  },
-  {
-    "id": 5,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "url": "",
     "summary": ""
   }
