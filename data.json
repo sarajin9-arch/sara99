@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
+    "source": "JMIR biomedical engineering",
+    "date": "2026-Nov",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993929/",
+    "summary": "Simulated patient systems are essential in nursing education but face actor scarcity, instructor burden, cost, and disrupted continuity where in-person simulation cannot be sustained. Existing large language model (LLM)-based systems address these issues but treat the dialogic partner-the AI nurse-a..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.",
     "source": "Journal of medical Internet research",
     "date": "2026-Nov",
@@ -10,22 +20,12 @@
     "summary": "Large language models (LLMs) show great potential for widespread application in the field of nursing; however, their limitations include hallucinations, insufficient domain knowledge, and delays in updating evidence. Retrieval-augmented generation (RAG), by combining external knowledge retrieval wit..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Exploring faculty members' experiences with artificial intelligence-supported teaching tools: An exploratory qualitative study.",
-    "source": "Nurse education today",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976390/",
-    "summary": "Artificial intelligence (AI) is transforming higher education, including nursing education. While AI-supported tools offer opportunities to enhance teaching and learning, concerns remain regarding academic integrity, evolving professional roles, and the preservation of human-centered education. To d..."
-  },
-  {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "url": "",
     "summary": ""
   }
