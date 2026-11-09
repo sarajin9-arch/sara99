@@ -3,50 +3,20 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-    "source": "JMIR biomedical engineering",
-    "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42993929/",
-    "summary": "Simulated patient systems are essential in nursing education but face actor scarcity, instructor burden, cost, and disrupted continuity where in-person simulation cannot be sustained. Existing large language model (LLM)-based systems address these issues but treat the dialogic partner-the AI nurse-a..."
+    "title": "Technology-enhanced learning in nursing education: a systematic review.",
+    "source": "BMC medical education",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995591/",
+    "summary": "Technology-enhanced learning (TEL), including artificial intelligence (AI), virtual reality (VR), high-fidelity simulation (HFS), and gamification, is increasingly used in nursing education to address limitations in clinical training and support the development of students' clinical reasoning skills..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.",
-    "source": "Journal of medical Internet research",
+    "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
+    "source": "JMIR biomedical engineering",
     "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42986217/",
-    "summary": "Large language models (LLMs) show great potential for widespread application in the field of nursing; however, their limitations include hallucinations, insufficient domain knowledge, and delays in updating evidence. Retrieval-augmented generation (RAG), by combining external knowledge retrieval wit..."
-  },
-  {
-    "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Generation of Case-Based Materials Using Large Language Models in Health Professions Education: Scoping Review.",
-    "source": "JMIR medical education",
-    "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976289/",
-    "summary": "Large language models (LLMs) are increasingly used to generate case-based materials for health professions education (HPE). Previous reviews have examined broad applications in HPE or focused on clinical cases, but none have comprehensively synthesized the generation and evaluation of diverse case-b..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "AI Literacy and Training Needs Among French Midwifery Students: National Cross-Sectional Online Survey and Exploratory Qualitative Follow-Up.",
-    "source": "JMIR medical education",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42932861/",
-    "summary": "AI is increasingly relevant to health care and health professional education, but AI-related knowledge, perceptions, and training needs among midwifery students remain underdocumented. Evidence is needed to inform midwifery curricula and to clarify how students understand and operationalize AI in tr..."
-  },
-  {
-    "id": 5,
-    "category": "policy",
-    "tag": "정책·기관",
-    "title": "제목 없음",
-    "source": "Google Alerts",
-    "date": "2026-11-08",
-    "url": "",
-    "summary": ""
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993929/",
+    "summary": "Simulated patient systems are essential in nursing education but face actor scarcity, instructor burden, cost, and disrupted continuity where in-person simulation cannot be sustained. Existing large language model (LLM)-based systems address these issues but treat the dialogic partner-the AI nurse-a..."
   }
 ]
