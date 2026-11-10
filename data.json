@@ -3,20 +3,30 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Technology-enhanced learning in nursing education: a systematic review.",
-    "source": "BMC medical education",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42995591/",
-    "summary": "Technology-enhanced learning (TEL), including artificial intelligence (AI), virtual reality (VR), high-fidelity simulation (HFS), and gamification, is increasingly used in nursing education to address limitations in clinical training and support the development of students' clinical reasoning skills..."
+    "title": "'But What if Margaret Says No?': Teaching Person-Centred Fundamental Care in an Era of Advanced Life-Sustaining Technology.",
+    "source": "Journal of advanced nursing",
+    "date": "2026-Nov",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000966/",
+    "summary": "To propose an educational framework and simulation design for teaching advanced practice nursing students to distinguish technological feasibility, clinical proportionality and person-centred appropriateness as advanced life-sustaining therapies and artificial intelligence (AI)-supported decision-ma..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Coexistence of AI Nurse and AI-Simulated Patient in Nursing Education Using a Bidirectional Fine-Tuning Pipeline: Development and Content Analysis Study.",
-    "source": "JMIR biomedical engineering",
-    "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42993929/",
-    "summary": "Simulated patient systems are essential in nursing education but face actor scarcity, instructor burden, cost, and disrupted continuity where in-person simulation cannot be sustained. Existing large language model (LLM)-based systems address these issues but treat the dialogic partner-the AI nurse-a..."
+    "title": "Understanding nursing students' acceptance of generative AI-assisted e-picture book creation in pediatric health education.",
+    "source": "BMC nursing",
+    "date": "2026-Aug",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000348/",
+    "summary": "Generative artificial intelligence (AI) is increasingly integrated into health professions education; however, limited research has examined nursing students' acceptance of generative AI as a task-based creative tool for developing child-centered health education materials. In pediatric care, transl..."
+  },
+  {
+    "id": 3,
+    "category": "policy",
+    "tag": "정책·기관",
+    "title": "제목 없음",
+    "source": "Google Alerts",
+    "date": "2026-11-10",
+    "url": "",
+    "summary": ""
   }
 ]
