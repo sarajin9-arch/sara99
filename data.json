@@ -3,29 +3,49 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "'But What if Margaret Says No?': Teaching Person-Centred Fundamental Care in an Era of Advanced Life-Sustaining Technology.",
-    "source": "Journal of advanced nursing",
+    "title": "Assessing Learner Readiness for Virtual Reality Simulations in Mental Health Nursing.",
+    "source": "Nursing education perspectives",
     "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000966/",
-    "summary": "To propose an educational framework and simulation design for teaching advanced practice nursing students to distinguish technological feasibility, clinical proportionality and person-centred appropriateness as advanced life-sustaining therapies and artificial intelligence (AI)-supported decision-ma..."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43006823/",
+    "summary": "Mental health nursing students have limited exposure to high-acuity psychiatric scenarios. This study compared learners' perceived readiness across virtual reality simulation, traditional clinical, and face-to-face simulation training. Twenty-two students completed the Clinical Learning Environment ..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Understanding nursing students' acceptance of generative AI-assisted e-picture book creation in pediatric health education.",
-    "source": "BMC nursing",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000348/",
-    "summary": "Generative artificial intelligence (AI) is increasingly integrated into health professions education; however, limited research has examined nursing students' acceptance of generative AI as a task-based creative tool for developing child-centered health education materials. In pediatric care, transl..."
+    "title": "Status and influencing factors of artificial intelligence readiness among nursing students.",
+    "source": "Frontiers in medicine",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005000/",
+    "summary": "To investigate the current status of artificial intelligence (AI) readiness among nursing students and analyze its influencing factors, providing evidence for the cultivation of AI literacy in nursing education...."
   },
   {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "Generation of Case-Based Materials Using Large Language Models in Health Professions Education: Scoping Review.",
+    "source": "JMIR medical education",
+    "date": "2026-Nov",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976289/",
+    "summary": "Large language models (LLMs) are increasingly used to generate case-based materials for health professions education (HPE). Previous reviews have examined broad applications in HPE or focused on clinical cases, but none have comprehensively synthesized the generation and evaluation of diverse case-b..."
+  },
+  {
+    "id": 4,
+    "category": "paper",
+    "tag": "학술논문",
+    "title": "AI Literacy and Training Needs Among French Midwifery Students: National Cross-Sectional Online Survey and Exploratory Qualitative Follow-Up.",
+    "source": "JMIR medical education",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932861/",
+    "summary": "AI is increasingly relevant to health care and health professional education, but AI-related knowledge, perceptions, and training needs among midwifery students remain underdocumented. Evidence is needed to inform midwifery curricula and to clarify how students understand and operationalize AI in tr..."
+  },
+  {
+    "id": 5,
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "url": "",
     "summary": ""
   }
