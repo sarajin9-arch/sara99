@@ -3,49 +3,29 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "The association between large language model dependence and academic anxiety among nursing students: statistical indirect associations through artificial intelligence addiction and academic burnout.",
-    "source": "Frontiers in psychology",
-    "date": "2026-03",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43011125/",
-    "summary": "Increasing use of large language models in nursing education has raised questions about the association between reliance on these tools and academic distress. This study examined direct and specific indirect associations between large language model dependence (LMD) and academic anxiety (AA) through..."
+    "title": "Evidence-Based Practice Competence Mediates the Link Between AI Readiness and Clinical Judgment Among Critical Care Nurses.",
+    "source": "Worldviews on evidence-based nursing",
+    "date": "2026-Dec",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43015996/",
+    "summary": "The integration of artificial intelligence (AI) into clinical practice is reshaping healthcare, particularly in critical care settings where rapid and complex decisions are required. Nurses' AI readiness and evidence-based practice (EBP) competence are essential for supporting sound clinical judgmen..."
   },
   {
     "id": 2,
     "category": "nursing",
     "tag": "간호교육 AI",
-    "title": "Dependence-related use of generative artificial intelligence among postgraduate nursing students: A qualitative descriptive study.",
+    "title": "AI-supported virtual versus standardized patient simulation for preconception counseling in nursing education: A randomized controlled trial.",
     "source": "Nurse education in practice",
     "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43008437/",
-    "summary": "To describe postgraduate nursing students' accounts of GenAI reliance, focusing on the boundary between assistance and substitution and its implications for learning and professional accountability...."
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014044/",
+    "summary": "To evaluate the effectiveness of AI-supported interactive virtual patients (AIIS) compared with standardized patient simulation (SPS) in teaching preconception counseling to nursing students...."
   },
   {
     "id": 3,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "Generation of Case-Based Materials Using Large Language Models in Health Professions Education: Scoping Review.",
-    "source": "JMIR medical education",
-    "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976289/",
-    "summary": "Large language models (LLMs) are increasingly used to generate case-based materials for health professions education (HPE). Previous reviews have examined broad applications in HPE or focused on clinical cases, but none have comprehensively synthesized the generation and evaluation of diverse case-b..."
-  },
-  {
-    "id": 4,
-    "category": "paper",
-    "tag": "학술논문",
-    "title": "AI Literacy and Training Needs Among French Midwifery Students: National Cross-Sectional Online Survey and Exploratory Qualitative Follow-Up.",
-    "source": "JMIR medical education",
-    "date": "2026-Oct",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42932861/",
-    "summary": "AI is increasingly relevant to health care and health professional education, but AI-related knowledge, perceptions, and training needs among midwifery students remain underdocumented. Evidence is needed to inform midwifery curricula and to clarify how students understand and operationalize AI in tr..."
-  },
-  {
-    "id": 5,
     "category": "university",
     "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "url": "",
     "summary": ""
   }
