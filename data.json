@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Automated assessment of healthcare de-escalation communication skills in a conversational AI virtual reality simulation.",
+    "source": "Frontiers in digital health",
+    "date": "2026-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041346/",
+    "summary": "Digital health training environments increasingly require scalable methods for assessing communication skills in realistic, interactive scenarios. This paper presents a comparative study of automated assessment approaches within a conversational AI virtual reality simulation designed for verbal de-e..."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Utilizing Photovoice to Facilitate the Critical Examination of Social Determinants of Health in Nursing Education.",
     "source": "Nursing education perspectives",
     "date": "2026-Nov",
@@ -10,22 +20,12 @@
     "summary": "Nurse educators must find creative ways to integrate social determinants of health (SDOH), nonmedical factors that influence health, into nursing education. We describe using photovoice, which employs photography and group dialogue, to facilitate students' critical examination of SDOH in their own c..."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "The relationship between patient safety competence and attitudes toward medical errors among nursing students: a cross-sectional study.",
-    "source": "BMC nursing",
-    "date": "2026-Aug",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43021220/",
-    "summary": "Patient safety competency is a critical component of nursing students' preparation for future professional practice and their ability to adhere to patient safety principles during clinical training. This study aimed to examine the relationship between nursing students' patient safety competency and ..."
-  },
-  {
     "id": 3,
-    "category": "policy",
-    "tag": "정책·기관",
+    "category": "university",
+    "tag": "대학교육 혁신",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "url": "",
     "summary": ""
   }
