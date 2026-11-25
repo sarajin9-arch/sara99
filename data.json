@@ -3,6 +3,16 @@
     "id": 1,
     "category": "nursing",
     "tag": "간호교육 AI",
+    "title": "Red Teaming Generative Artificial Intelligence in Nursing Education: A Risk-Based Audit.",
+    "source": "Journal of nursing regulation",
+    "date": "2026-Oct",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075507/",
+    "summary": "The use of generative artificial intelligence (AI) tools in nursing education without discipline-specific evaluation can create risks in admissions gatekeeping, clinical knowledge verification, and academic integrity assessment...."
+  },
+  {
+    "id": 2,
+    "category": "nursing",
+    "tag": "간호교육 AI",
     "title": "Making AI Use Visible: Assignment-Specific AI Guidance and Student Disclosure.",
     "source": "Nurse educator",
     "date": "2026-Nov",
@@ -10,22 +20,12 @@
     "summary": "Despite growing calls for student transparency about artificial intelligence (AI) use in nursing education, little is known about what AI disclosure looks like in practice...."
   },
   {
-    "id": 2,
-    "category": "nursing",
-    "tag": "간호교육 AI",
-    "title": "Large Language Model-Powered AI-Assisted Simulated Patient for Nursing Education: Quasi-Experimental Study.",
-    "source": "JMIR nursing",
-    "date": "2026-Nov",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43068358/",
-    "summary": "Large language model (LLM)-powered virtual patient systems are gaining popularity in nursing education but also face persistent challenges, such as hallucinations and role inconsistency...."
-  },
-  {
     "id": 3,
     "category": "policy",
     "tag": "정책·기관",
     "title": "제목 없음",
     "source": "Google Alerts",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "url": "",
     "summary": ""
   }
